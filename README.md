@@ -39,4 +39,4 @@ I document my journey and share technical insights on [Medium](https://medium.co
 
 ---
 
-*"Simplicity is a prerequisite for reliability." — Edsger W. Dijkstra*
+*"Master the basics. Then practice them every day without fail." - John C. Maxwell*
