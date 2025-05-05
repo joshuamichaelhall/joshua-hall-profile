@@ -1,42 +1,45 @@
 # Joshua Michael Hall
 
-## Full Stack Developer | Ruby Specialist | AI/ML Enthusiast
+## Back-End Ruby Engineer | DevOps/SRE with Financial Services Focus
 
-I'm a software engineer focused on building robust, maintainable applications with clean code and solid architecture. Currently mastering full-stack development at [Launch School](https://launchschool.com) with a focus on backend technologies.
+> "Master the basics. Then practice them every day without fail." - John C. Maxwell
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 Currently focused on Ruby, SQL, and web development fundamentals
-- 🌱 Learning Python for AI/ML applications in finance
-- 🏗️ Former IT company founder with experience building systems for 40+ businesses
-- 🏘️ Real estate investor managing a growing property portfolio
-- 📚 Passionate about mastery-based learning and technical depth
+I'm a back-end engineer specializing in Ruby with a terminal-centric development workflow. After completing 90% of Launch School's back-end curriculum, I've designed my own "FinOps Engineering Mastery" program focusing on DevOps/SRE and Platform Engineering for financial services.
 
-### 🛠️ Technical Skills
+### Technical Focus
 
-- **Languages:** Ruby, SQL, HTML/CSS, JavaScript (learning), Python (learning)
-- **Technologies:** PostgreSQL, Git, Sinatra, Linux/Unix
-- **Concepts:** Object-Oriented Design, RESTful APIs, Test-Driven Development, Database Design
+- **Languages**: Ruby, Python (learning), Shell Scripting, SQL
+- **Dev Environment**: Neovim, tmux, Git, Terminal-centric workflow
+- **Infrastructure**: Docker, Kubernetes, Terraform, AWS
+- **Databases**: PostgreSQL
+- **Methodologies**: TDD, Infrastructure as Code, DevSecOps
 
-### 📝 Technical Writing
+### Current Learning Path
 
-I document my journey and share technical insights on [Medium](https://medium.com/@michael.joshua.hall) and [Dev.to](https://dev.to/joshuamichaelhall), covering:
-- Software engineering fundamentals
-- Programming patterns and best practices
-- Career transitions into tech
+I'm following a structured 24-month roadmap to become a Platform Engineer in Financial Services:
 
-### 🌍 Beyond Coding
+- 🔄 Phase 1: Foundation Building - Linux, Docker, Git, Terraform
+- 🔄 Phase 2: Cloud and Infrastructure Automation - AWS, Ruby/Python Automation
+- 🔄 Phase 3: Container Orchestration and Monitoring - Kubernetes, Prometheus
+- 🔄 Phase 4: DevSecOps and Reliability Engineering - Security, SRE Practices
+- 🔄 Phase 5: Advanced Platform Engineering - HA Architecture, Service Mesh
+- 🔄 Phase 6: Financial Services Platform Engineering - Compliance Automation
 
-- Global perspective from living in 14 US states
-- International experience in Uganda, South Africa, Kenya, Ethiopia, Dubai, Amsterdam, Haiti, and Mexico
-- Enjoy working in cross-cultural environments and bringing diverse perspectives to technical challenges
+### Featured Projects
 
-### 📫 Connect With Me
+<!-- These will be updated as you complete projects in your roadmap -->
+- 🚀 [Ruby Microservice with CI/CD Pipeline](https://github.com/joshuamichaelhall/ruby-microservice-cicd)
+- 🏗️ [Infrastructure as Code for Financial Applications](https://github.com/joshuamichaelhall/finapp-infrastructure)
+- 🔒 [Kubernetes Platform for Financial Services](https://github.com/joshuamichaelhall/k8s-finance-platform)
 
-- Email: contact@joshuamichaelhall.com
-- LinkedIn: [joshuamichaelhall](https://linkedin.com/in/joshuamichaelhall/)
-- Medium: [@michael.joshua.hall](https://medium.com/@michael.joshua.hall)
+### Connect With Me
 
----
+- 🌐 Website: [joshuamichaelhall.com](https://joshuamichaelhall.com)
+- 💼 LinkedIn: [Joshua Michael Hall](https://www.linkedin.com/in/joshuamichaelhall/)
+- 📝 Blog: [Dev.to](https://dev.to/joshuamichaelhall) | [Medium](https://medium.com/@joshuamichaelhall)
 
-*"Master the basics. Then practice them every day without fail." - John C. Maxwell*
+### GitHub Stats
+
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuamichaelhall&show_icons=true&theme=dark)
