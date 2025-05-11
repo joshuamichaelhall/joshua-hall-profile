@@ -27,6 +27,12 @@ I'm following a structured 24-month roadmap to become a Platform Engineer in Fin
 - 🔄 Phase 5: Advanced Platform Engineering - HA Architecture, Service Mesh
 - 🔄 Phase 6: Financial Services Platform Engineering - Compliance Automation
 
+<!-- BLOG-POST-LIST:START -->
+## Latest Blog Posts
+
+<!-- This section will be automatically updated by GitHub Actions -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Featured Projects
 
 <!-- These will be updated as you complete projects in your roadmap -->
