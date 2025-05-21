@@ -1,50 +1,66 @@
 # Joshua Michael Hall
 
-## Back-End Ruby Engineer | DevOps/SRE with Financial Services Focus
+## DevOps/SRE Engineer | Financial Services Focus
 
-> "Master the basics. Then practice them every day without fail." - John C. Maxwell
+> "Deep expertise in a few critical areas creates more value than shallow knowledge across many."
 
 ### About Me
 
-I'm a back-end engineer specializing in Ruby with a terminal-centric development workflow. After completing 90% of Launch School's back-end curriculum, I've designed my own "FinOps Engineering Mastery" program focusing on DevOps/SRE and Platform Engineering for financial services.
+I'm a DevOps/SRE engineer specializing in AWS cloud infrastructure, Infrastructure as Code, and container orchestration with a focus on financial services environments. I take a security-first approach to automating infrastructure with measurable business impact.
 
-### Technical Focus
+### Strategic Specialization
 
-- **Languages**: Ruby, Python (learning), Shell Scripting, SQL
-- **Dev Environment**: Neovim, tmux, Git, Terminal-centric workflow
-- **Infrastructure**: Docker, Kubernetes, Terraform, AWS
-- **Databases**: PostgreSQL
-- **Methodologies**: TDD, Infrastructure as Code, DevSecOps
+I'm pursuing a specialized career path in financial services DevOps with these key focus areas:
 
-### Current Learning Path
+- **AWS Infrastructure for Financial Services**: Multi-account architecture with security controls
+- **Infrastructure as Code**: Terraform automation with compliance integration
+- **Container Orchestration**: Kubernetes platform engineering for regulated workloads
+- **Security Automation**: Implementing financial compliance requirements as code
+- **Business Impact Measurement**: Quantifying ROI and value of technical solutions
 
-I'm following a structured 24-month roadmap to become a Platform Engineer in Financial Services:
+### Professional Roadmap
 
-- 🔄 Phase 1: Foundation Building - Linux, Docker, Git, Terraform
-- 🔄 Phase 2: Cloud and Infrastructure Automation - AWS, Ruby/Python Automation
-- 🔄 Phase 3: Container Orchestration and Monitoring - Kubernetes, Prometheus
-- 🔄 Phase 4: DevSecOps and Reliability Engineering - Security, SRE Practices
-- 🔄 Phase 5: Advanced Platform Engineering - HA Architecture, Service Mesh
-- 🔄 Phase 6: Financial Services Platform Engineering - Compliance Automation
+I'm following a structured path to senior and principal-level DevOps roles:
 
-<!-- BLOG-POST-LIST:START -->
-## Latest Blog Posts
+#### Phase 1: Foundation Building (Current)
+- AWS Solutions Architect Associate certification
+- Terraform Associate certification
+- Financial services infrastructure project implementation
+- Security and compliance automation
 
-<!-- This section will be automatically updated by GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
+#### Phase 2: Technical Specialization
+- AWS DevOps Professional certification
+- Kubernetes platform implementation
+- Advanced AWS security specialization
+- Financial services compliance automation
+
+#### Phase 3: Platform Engineering Leadership
+- AWS Solutions Architect Professional certification
+- Kubernetes security implementation
+- Enterprise-scale platform design
+- Technical leadership development
 
 ### Featured Projects
 
-<!-- These will be updated as you complete projects in your roadmap -->
-- 🚀 [Ruby Microservice with CI/CD Pipeline](https://github.com/joshuamichaelhall/ruby-microservice-cicd)
-- 🏗️ [Infrastructure as Code for Financial Applications](https://github.com/joshuamichaelhall/finapp-infrastructure)
-- 🔒 [Kubernetes Platform for Financial Services](https://github.com/joshuamichaelhall/k8s-finance-platform)
+- 🏗️ [Financial Services AWS Infrastructure](https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure) - Production-grade AWS environment with financial compliance controls
+- 🔒 [Container Security for Financial Services](https://github.com/JoshuaMichaelHall-Tech/project-container-security-finance) - Secure container platform for regulated workloads
+- 🚀 [DevOps Pipeline Implementation](https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial) - CI/CD pipeline with security validation for financial applications
+
+### Technical Focus
+
+- **Cloud**: AWS (specialization), multi-account architecture, security services
+- **IaC**: Terraform, CloudFormation, AWS CDK, compliance as code
+- **Containers**: Docker, Kubernetes, ECS, container security
+- **CI/CD**: GitHub Actions, Jenkins, automated testing
+- **Security**: IAM, Security Hub, GuardDuty, Config, compliance automation
+- **Development**: Terminal-centric workflow with Neovim, tmux, and Git
 
 ### Connect With Me
 
-- 🌐 Website: [joshuamichaelhall.com](https://joshuamichaelhall.com)
+- 🌐 Website: [joshuamichaelhall.github.io](https://joshuamichaelhall.github.io)
 - 💼 LinkedIn: [Joshua Michael Hall](https://www.linkedin.com/in/joshuamichaelhall/)
-- 📝 Blog: [Dev.to](https://dev.to/joshuamichaelhall) | [Medium](https://medium.com/@joshuamichaelhall)
+- 📝 Blog: [Dev.to](https://dev.to/joshuamichaelhall)
+- 👨‍💻 Organization: [JoshuaMichaelHall-Tech](https://github.com/JoshuaMichaelHall-Tech)
 
 ### GitHub Stats
 
