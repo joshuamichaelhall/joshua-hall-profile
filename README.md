@@ -1,12 +1,12 @@
 # Joshua Michael Hall
 
-## DevOps/SRE Engineer | Financial Services Focus
+## Infrastructure Professional | Financial Services DevOps Focus
 
 > "Deep expertise in a few critical areas creates more value than shallow knowledge across many."
 
 ### About Me
 
-I'm a DevOps/SRE engineer specializing in AWS cloud infrastructure, Infrastructure as Code, and container orchestration with a focus on financial services environments. I take a security-first approach to automating infrastructure with measurable business impact.
+Infrastructure professional with comprehensive background in project leadership, network security, and system administration. Currently completing systematic AWS, Security+, and Terraform certification pathway for financial services DevOps specialization. I take a security-first approach to automating infrastructure with measurable business impact.
 
 ### Strategic Specialization
 
@@ -18,25 +18,34 @@ I'm pursuing a specialized career path in financial services DevOps with these k
 - **Security Automation**: Implementing financial compliance requirements as code
 - **Business Impact Measurement**: Quantifying ROI and value of technical solutions
 
+### Current Certifications
+- **Google Project Management Certificate** - Comprehensive project management methodology and tools
+- **CompTIA Project+** - IT project management best practices and methodologies
+
+### Certification Progress
+- **AWS Solutions Architect Associate** (In Progress)
+- **CompTIA Security+ SY0-701** (In Progress - Renewal)
+- **HashiCorp Terraform Associate** (Planned)
+
 ### Professional Roadmap
 
 I'm following a structured path to senior and principal-level DevOps roles:
 
 #### Phase 1: Foundation Building (Current)
-- AWS Solutions Architect Associate certification
-- Terraform Associate certification
+- AWS Solutions Architect Associate certification (In Progress)
+- Terraform Associate certification (Planned)
 - Financial services infrastructure project implementation
 - Security and compliance automation
 
 #### Phase 2: Technical Specialization
 - AWS DevOps Professional certification
-- Kubernetes platform implementation
+- Kubernetes Administrator (CKA) certification
 - Advanced AWS security specialization
 - Financial services compliance automation
 
 #### Phase 3: Platform Engineering Leadership
 - AWS Solutions Architect Professional certification
-- Kubernetes security implementation
+- AWS Security Specialty certification
 - Enterprise-scale platform design
 - Technical leadership development
 
@@ -46,9 +55,15 @@ I'm following a structured path to senior and principal-level DevOps roles:
 - 🔒 [Container Security for Financial Services](https://github.com/JoshuaMichaelHall-Tech/project-container-security-finance) - Secure container platform for regulated workloads
 - 🚀 [DevOps Pipeline Implementation](https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial) - CI/CD pipeline with security validation for financial applications
 
+### Professional Foundation
+- Led 13-person technical team deploying 5,000 systems at Vanderbilt Hospital
+- Built and scaled $250K IT services company serving 40+ clients
+- Completed Launch School software engineering curriculum (95%)
+- Managed multi-million dollar real estate portfolio and operations
+
 ### Technical Focus
 
-- **Cloud**: AWS (specialization), multi-account architecture, security services
+- **Cloud**: AWS (specialization focus), multi-account architecture, security services
 - **IaC**: Terraform, CloudFormation, AWS CDK, compliance as code
 - **Containers**: Docker, Kubernetes, ECS, container security
 - **CI/CD**: GitHub Actions, Jenkins, automated testing
