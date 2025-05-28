@@ -21,7 +21,7 @@ jobs:
         run: npm install axios rss-parser
         
       - name: Update README with latest blog posts
-        run: node .github/scripts/update-readme.js
+        run: node scripts/update-readme.js
         
       - name: Commit and push if changed
         run: |
