@@ -1,81 +1,80 @@
 # Joshua Michael Hall
 
-## Infrastructure Professional | Financial Services DevOps Focus
+**Cloud Engineer | AWS Solutions Architect (In Progress) | Former MSP Founder**
 
-> "Deep expertise in a few critical areas creates more value than shallow knowledge across many."
+> "Building cloud expertise through hands-on learning and real-world application."
 
-### About Me
+## About Me
 
-Infrastructure professional with comprehensive background in project leadership, network security, and system administration. Currently completing systematic AWS, Security+, and Terraform certification pathway for financial services DevOps specialization. I take a security-first approach to automating infrastructure with measurable business impact.
+Technology professional transitioning to cloud engineering with a unique combination of business ownership experience and technical skills. Currently pursuing AWS Solutions Architect Associate and CompTIA Security+ certifications while relocating to the Raleigh-Durham area.
 
-### Strategic Specialization
+As a former MSP founder who built a $250K business serving 30+ clients, I bring a practical understanding of how technology decisions impact business outcomes. Now applying that experience to cloud architecture and engineering.
 
-I'm pursuing a specialized career path in financial services DevOps with these key focus areas:
+## Current Focus
 
-- **AWS Infrastructure for Financial Services**: Multi-account architecture with security controls
-- **Infrastructure as Code**: Terraform automation with compliance integration
-- **Container Orchestration**: Kubernetes platform engineering for regulated workloads
-- **Security Automation**: Implementing financial compliance requirements as code
-- **Business Impact Measurement**: Quantifying ROI and value of technical solutions
+🎯 **Certification Sprint (In Progress)**
+- 🔐 CompTIA Security+ SY0-701 (Renewal)
+- ☁️ AWS Solutions Architect Associate
+- 📍 Relocating to Raleigh-Durham tech hub
 
-### Current Certifications
-- **Google Project Management Certificate** - Comprehensive project management methodology and tools
-- **CompTIA Project+** - IT project management best practices and methodologies
+## Background
 
-### Certification Progress
-- **AWS Solutions Architect Associate** (In Progress)
-- **CompTIA Security+ SY0-701** (In Progress - Renewal)
-- **HashiCorp Terraform Associate** (Planned)
+- 🏢 **MSP Founder**: Built and scaled IT services company to $250K revenue
+- 🏥 **Technical Lead**: Led 13-person team deploying 5,000+ systems at Vanderbilt Hospital  
+- 💻 **Launch School**: Completed 95% of rigorous backend engineering curriculum
+- 🎓 **Master of Divinity**: Developed exceptional communication and learning abilities
 
-### Professional Roadmap
+## Technical Skills
 
-I'm following a structured path to senior and principal-level DevOps roles:
+**Currently Using:**
+- **Cloud**: AWS (actively learning)
+- **Languages**: Ruby, Python, Shell scripting
+- **Tools**: Git, Linux, tmux, Neovim
+- **Infrastructure**: Network security, Windows/Linux administration
 
-#### Phase 1: Foundation Building (Current)
-- AWS Solutions Architect Associate certification (In Progress)
-- Terraform Associate certification (Planned)
-- Financial services infrastructure project implementation
-- Security and compliance automation
+**Learning:**
+- AWS services (EC2, S3, VPC, IAM, RDS)
+- Infrastructure as Code basics
+- Cloud security best practices
+- Cost optimization strategies
 
-#### Phase 2: Technical Specialization
-- AWS DevOps Professional certification
-- Kubernetes Administrator (CKA) certification
-- Advanced AWS security specialization
-- Financial services compliance automation
+## Projects
 
-#### Phase 3: Platform Engineering Leadership
-- AWS Solutions Architect Professional certification
-- AWS Security Specialty certification
-- Enterprise-scale platform design
-- Technical leadership development
+### 🛠️ Active Projects
+- **AWS Learning Journey** - Documenting my path to AWS certification
+- **Cloud Cost Tools** - Simple Python scripts for AWS cost analysis
+- **Terminal Environment** - Productivity-focused development setup
 
-### Featured Projects
+### 📚 Learning Resources
+- Building hands-on labs for AWS services
+- Creating study notes and documentation
+- Sharing practical examples as I learn
 
-- 🏗️ [Financial Services AWS Infrastructure](https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure) - Production-grade AWS environment with financial compliance controls
-- 🔒 [Container Security for Financial Services](https://github.com/JoshuaMichaelHall-Tech/project-container-security-finance) - Secure container platform for regulated workloads
-- 🚀 [DevOps Pipeline Implementation](https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial) - CI/CD pipeline with security validation for financial applications
+## Professional Journey
+2020-2023: MSP Founder → Built successful IT services business
+2023-2024: Launch School → Software engineering fundamentals
+2024-Present: Cloud Focus → AWS certifications and cloud engineering
 
-### Professional Foundation
-- Led 13-person technical team deploying 5,000 systems at Vanderbilt Hospital
-- Built and scaled $250K IT services company serving 40+ clients
-- Completed Launch School software engineering curriculum (95%)
-- Managed multi-million dollar real estate portfolio and operations
+## Connect With Me
 
-### Technical Focus
+- 🌐 **Website**: [joshuamichaelhall.com](https://joshuamichaelhall.com)
+- 💼 **LinkedIn**: [Joshua Michael Hall](https://linkedin.com/in/joshuamichaelhall)
+- 📧 **Email**: contact@joshuamichaelhall.com
+- 📍 **Location**: Relocating to Raleigh-Durham
 
-- **Cloud**: AWS (specialization focus), multi-account architecture, security services
-- **IaC**: Terraform, CloudFormation, AWS CDK, compliance as code
-- **Containers**: Docker, Kubernetes, ECS, container security
-- **CI/CD**: GitHub Actions, Jenkins, automated testing
-- **Security**: IAM, Security Hub, GuardDuty, Config, compliance automation
-- **Development**: Terminal-centric workflow with Neovim, tmux, and Git
+## What I'm Looking For
 
-### Connect With Me
+Seeking Cloud Engineer roles where I can combine:
+- Fresh AWS knowledge and certifications
+- Real-world business experience from running an MSP
+- Strong problem-solving and communication skills
+- Enthusiasm for continuous learning
 
-- 🌐 Website: [joshuamichaelhall.github.io](https://joshuamichaelhall.github.io)
-- 💼 LinkedIn: [Joshua Michael Hall](https://www.linkedin.com/in/joshuamichaelhall/)
-- 📝 Blog: [Dev.to](https://dev.to/joshuamichaelhall)
-- 👨‍💻 Organization: [JoshuaMichaelHall-Tech](https://github.com/JoshuaMichaelHall-Tech)
+Particularly interested in companies that value business acumen alongside technical skills and offer clear paths for growth into Solutions Architecture.
+
+---
+
+*"From managing IT infrastructure for 30+ businesses to building cloud solutions - bringing practical experience to every line of code."*
 
 ### GitHub Stats
 
