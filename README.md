@@ -1,83 +1,86 @@
 # Joshua Michael Hall
 
-**Healthcare Cloud Engineer | AWS Certified | Ministry Leader Turned Tech Executive**
+**Cloud Engineer | AWS Certified | Former MSP Founder | Building Scalable Solutions with Code**
 
-> "Leveraging 26 years of leadership experience to build secure, scalable healthcare IT solutions."
+> "Combining business acumen, programming skills, and cloud expertise to deliver exceptional infrastructure solutions."
 
 ## About Me
 
-Experienced technology leader with 26 years in ministry and business leadership, now focused on healthcare cloud engineering. Combining deep programming skills (Launch School graduate, top 15% on Codewars) with executive leadership experience to drive healthcare IT transformation.
+Technology professional with a unique combination of MSP ownership, strong programming foundation, and 26 years of leadership experience. Currently executing a 90-day sprint to AWS Solutions Architect Associate certification while building an impressive portfolio of cloud projects.
 
-Currently executing a focused certification sprint for Security+, AWS SAA, and CHSE while targeting remote healthcare cloud engineering roles. My unique background in serving others aligns perfectly with healthcare's mission-driven environment.
+Founded and scaled an MSP to $250K revenue, giving me deep understanding of infrastructure at scale and business impact. Now leveraging Launch School programming skills (top 15% on Codewars) and AWS expertise to become a "Cloud Engineer Who Can Actually Code."
 
 ## Current Focus
 
-🎯 **4-Month Certification Sprint**
-- 🔐 CompTIA Security+ (Month 1)
-- ☁️ AWS Solutions Architect Associate (Month 2)
-- 🏥 Certified in Healthcare Security - CHSE (Month 3)
-- 💼 Active job search for remote healthcare IT roles (Month 4)
+🎯 **90-Day Cloud Engineering Sprint**
+- ☁️ AWS Solutions Architect Associate (Days 30-40)
+- 🔧 4 Production-Ready Projects (Serverless, IaC, Security, Containers)
+- 🌐 100+ Cloud Engineering Network Connections
+- 💼 Targeting $130-150K Remote Cloud Engineering Roles
 
 ## Background
 
-- 🎯 **Leadership Excellence**: 26 years experience, achieved 91% growth in last role
-- 💻 **Programming Foundation**: Launch School graduate, Codewars top 15% (5 kyu Python, 4 kyu Ruby)
-- 🏥 **Healthcare Experience**: Led technical deployment at Vanderbilt Medical Center
-- 🎓 **Master of Divinity**: Top 5% communication skills from ministry background
-- 🏢 **MSP Founder**: Built $250K IT services business serving 30+ clients
+- 💼 **MSP Founder**: Built $250K business serving 30+ clients with 100% satisfaction
+- 💻 **Programming Excellence**: Launch School graduate, Codewars top 15% (5 kyu Python, 4 kyu Ruby)
+- 🎯 **Leadership Track Record**: 26 years experience, achieved 91% organizational growth
+- 🎓 **Continuous Learner**: Currently mastering Python/Boto3, Terraform, and serverless patterns
+- 🏢 **Business Mindset**: P&L ownership, ROI focus, cost optimization expertise
 
 ## Technical Skills
 
-**Programming & Development:**
-- **Languages**: Python (5 kyu), Ruby (4 kyu), JavaScript, Shell scripting
-- **Backend**: PostgreSQL, APIs, System Design
-- **Tools**: Git, Linux, Docker, CI/CD pipelines
-
 **Cloud & Infrastructure:**
-- **AWS**: EC2, S3, VPC, IAM, RDS, Lambda, CloudFormation
-- **Security**: HIPAA compliance, Security frameworks, Zero Trust architecture
-- **Automation**: Python/Boto3, Infrastructure as Code, DevOps practices
-- **Healthcare IT**: HL7, FHIR (learning), Epic/Cerner integration concepts
+- **AWS**: EC2, S3, Lambda, RDS, DynamoDB, VPC, IAM, CloudFormation, ECS/Fargate
+- **IaC**: Terraform, CloudFormation, AWS CDK
+- **CI/CD**: GitHub Actions, AWS CodePipeline, Jenkins
+- **Monitoring**: CloudWatch, X-Ray, Cost Explorer
 
-## Projects
+**Programming & Automation:**
+- **Languages**: Python (Boto3), Ruby, JavaScript, Bash/Zsh
+- **Backend**: PostgreSQL, APIs, System Design
+- **DevOps**: Docker, Kubernetes (learning), Linux administration
+- **Testing**: pytest, integration testing, TDD principles
 
-### 🏥 Healthcare-Focused Projects
-- **HIPAA-Compliant Infrastructure** - Automated AWS deployment with security controls
-- **Patient Data Pipeline** - Secure ETL system with encryption and audit logging
-- **Healthcare Cost Analysis** - Python tools for optimizing cloud spend in healthcare
-- **Security Automation** - Compliance scanning and remediation tools
+## Featured Projects
 
-### 🎯 Current Sprint Focus
-- Building portfolio of healthcare IT solutions
-- Networking with 100+ healthcare IT professionals
-- Contributing to open-source healthcare projects
+### 🚀 Cloud Engineering Portfolio
+1. **Serverless E-Commerce Pipeline** - Real-time data processing with Lambda/DynamoDB
+2. **Multi-Region DR Solution** - 5-minute RTO with automated failover
+3. **Security Automation Platform** - Python/Boto3 compliance scanning and remediation
+4. **Container Platform with CI/CD** - ECS Fargate with blue-green deployments
+
+### 💡 Key Achievements
+- Reduced client cloud costs by 40% through architecture optimization
+- Zero security incidents across 3 years managing 30+ businesses
+- 10x efficiency gains through automation and IaC
+- Built production systems handling 10K+ transactions/minute
 
 ## Professional Journey
-1998-2024: Ministry Leadership → 26 years developing people and systems
-2020-2023: MSP Founder → Built $250K IT services business
-2023-2024: Launch School → Rigorous software engineering training
-2024-Present: Healthcare IT Focus → Certifications + targeted career transition
+1998-2020: Ministry Leadership → 26 years developing people and organizational systems
+2020-2023: MSP Founder → Built successful IT services business from scratch
+2023-2024: Launch School → Rigorous backend software engineering training
+2024-Present: Cloud Engineering → AWS expertise + impressive project portfolio
 
 ## Connect With Me
 
-- 🌐 **Website**: [joshuamichaelhall.com](https://joshuamichaelhall.com)
+- 🌐 **Portfolio**: [joshuamichaelhall.com](https://joshuamichaelhall.com)
 - 💼 **LinkedIn**: [Joshua Michael Hall](https://linkedin.com/in/joshuamichaelhall)
-- 📧 **Email**: contact@joshuamichaelhall.com
-- 📍 **Location**: Arkansas (100% Remote Focus)
+- 🐙 **GitHub**: [joshuamichaelhall](https://github.com/joshuamichaelhall)
+- 📧 **Email**: cloud@joshuamichaelhall.com
+- 📍 **Location**: Arkansas (100% Remote)
 
 ## What I'm Looking For
 
-Targeting remote Healthcare Cloud Engineer roles ($100-130K) where I can leverage:
-- **Technical Excellence**: Strong programming foundation + cloud certifications
-- **Leadership Experience**: 26 years driving transformation and growth
-- **Healthcare Alignment**: Natural empathy for healthcare's mission
-- **Remote Excellence**: Proven self-management and communication skills
+Targeting remote Cloud Engineering roles ($130-150K) where I can leverage:
+- **Technical Depth**: Programming skills + cloud expertise + automation focus
+- **Business Acumen**: MSP ownership experience + P&L understanding
+- **Leadership Excellence**: 26 years driving transformation and adoption
+- **Remote Excellence**: Proven self-management from ministry and business ownership
 
-**Ideal Companies**: Healthcare IT organizations like Included Health, Teladoc, Carbon Health, or government contractors working on VA/CMS projects. Seeking 100% remote positions with growth paths to architect and leadership roles.
+**Ideal Companies**: GitLab, HashiCorp, Datadog, MongoDB, cloud consultancies (2nd Watch, CloudReach), or high-growth SaaS companies building at scale. Seeking 100% remote positions with paths to senior engineering or architecture roles.
 
 ---
 
-*"Ministry Leadership + Technical Excellence + Healthcare Focus + Remote Work = Your Next Healthcare IT Leader"*
+*"MSP Founder + Launch School Programming + Cloud Expertise = Premium Cloud Engineer"*
 
 ### GitHub Stats
 
