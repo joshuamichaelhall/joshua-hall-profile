@@ -8,7 +8,7 @@
 
 Technology professional with a unique combination of MSP ownership, strong programming foundation, and 26 years of leadership experience. Currently executing a 90-day sprint to AWS Solutions Architect Associate certification while building production-ready cloud projects.
 
-Founded and scaled an MSP to $250K revenue, giving me deep understanding of infrastructure at scale and business impact. Now leveraging Launch School programming skills (top 10% on Codewars) and AWS expertise to transition into cloud engineering where I can build automated, scalable solutions.
+Founded and scaled an MSP to $250K revenue, giving me deep understanding of infrastructure at scale and business impact. Now leveraging programming skills from 9 backend courses (Ruby, Python, SQL, databases, OOP) - top 10% on Codewars - and AWS expertise to transition into cloud engineering where I can build automated, scalable solutions.
 
 ## Current Focus
 
@@ -23,7 +23,7 @@ Founded and scaled an MSP to $250K revenue, giving me deep understanding of infr
 ## Background
 
 - 💼 **MSP Founder**: Built $250K business serving 30+ clients with 100% satisfaction
-- 💻 **Programming Excellence**: Launch School graduate, Codewars top 10% (5 kyu Python, 4 kyu Ruby)
+- 💻 **Programming Excellence**: Completed 9 backend courses (Ruby, Python, SQL, databases, OOP), Codewars top 10% (5 kyu Python, 4 kyu Ruby)
 - 🎯 **Leadership Track Record**: 26 years experience, achieved 100% organizational growth in 14 months
 - 🎓 **Continuous Learner**: Currently mastering AWS, Terraform, and cloud-native patterns
 - 🏢 **Business Mindset**: P&L ownership experience, ROI-focused approach
@@ -88,8 +88,8 @@ Founded and scaled an MSP to $250K revenue, giving me deep understanding of infr
 **2020-2023**: MSP Founder  
 Built and scaled IT services business serving SMB clients
 
-**2023-2024**: Launch School  
-Intensive software engineering program focused on fundamentals
+**2023-2024**: Backend Programming Courses  
+Completed 9 intensive courses (Ruby, Python, SQL, databases, OOP) focused on fundamentals
 
 **2024-Present**: Cloud Engineering Transition  
 Combining all previous experience to build cloud solutions
@@ -99,7 +99,7 @@ Combining all previous experience to build cloud solutions
 **I Can Actually Code**
 
 - Not just clicking through consoles - I build automation and tools
-- Strong programming fundamentals from Launch School's rigorous curriculum
+- Strong programming fundamentals from rigorous 9-course backend curriculum
 - Proven ability to solve complex problems with code
 
 **I Understand Business**
@@ -138,7 +138,7 @@ Seeking remote cloud engineering roles where I can combine my programming skills
 
 ---
 
-_"From building a successful MSP to mastering programming at Launch School, now bringing that unique perspective to cloud engineering."_
+_"From building a successful MSP to mastering programming through 9 backend courses, now bringing that unique perspective to cloud engineering."_
 
 ### GitHub Stats
 
