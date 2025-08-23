@@ -1,32 +1,32 @@
 # Joshua Michael Hall
 
-**Cloud Engineer | AWS Certified | Cost & Security Optimization Specialist | Elite 4-Certification Track**
+**Business Leader | Expanding into AWS Cloud Architecture | Customer Success & Operational Excellence**
 
-> "Building cloud engineering expertise through systematic certification strategy and practical project development."
+> "Business leader applying proven customer obsession and operational excellence to cloud architecture solutions that deliver measurable business outcomes."
 
 ## About Me
 
-Cloud Engineer building expertise through Elite 4-Certification strategy, combining systematic technical development with business understanding from entrepreneurial background. Focused on cost optimization and security specialization within cloud infrastructure.
+Business leader expanding into cloud architecture by applying proven track record of customer success, operational excellence, and cost optimization. Founded and scaled MSP to 30+ clients with 100% retention through business-focused approach to technical implementations.
 
-Founded and operated an MSP serving enterprise clients, providing practical understanding of infrastructure management and business requirements. Now applying this foundation with programming skills (Ruby, Python, SQL) and AWS certification track to build cloud engineering career through hands-on projects and systematic skill development.
+Combining established business expertise with AWS certified competence and systematic problem-solving methodology (Launch School engineering foundation) to deliver cloud solutions that achieve both technical functionality and measurable business outcomes. Specializing in customer success, cost optimization, and operational reliability.
 
 ## Current Focus
 
-🎯 **Elite 4-Certification Development Track**
+🎯 **Strategic Cloud Architecture Expansion**
 
-- ☁️ AWS Solutions Architect Associate (completed) → Professional (Year 2)
-- 🤖 AWS Machine Learning Specialty (Year 3) - AI cost optimization focus
-- 📊 AWS Data Analytics Specialty (Year 3) - Cost intelligence and reporting
-- 🔒 CISSP (Year 3) - Executive security leadership credential
-- 💻 Building portfolio projects demonstrating practical cloud skills
+- ☁️ AWS Solutions Architect certification with business-focused implementation approach
+- 🤖 Advanced AWS specializations aligned with customer success and cost optimization
+- 📊 Business-value portfolio projects demonstrating ROI and operational excellence
+- 🔒 Security and compliance expertise for enterprise environments
+- 💻 Systematic expansion of business expertise into cloud architecture solutions
 
-## Background
+## Business Leadership Foundation
 
-- 💼 **MSP Founder**: Built and operated managed services provider with enterprise client base
-- ☁️ **Cloud Engineering Focus**: Developing expertise in AWS infrastructure and cost optimization
-- 🎯 **Leadership Experience**: 20+ years managing teams and technical operations
-- 📊 **Cost Optimization**: Practical experience with infrastructure economics and efficiency
-- 🏢 **Business Understanding**: P&L experience from running technology services company
+- 💼 **MSP Leadership**: Founded and scaled managed services practice generating $250K annual revenue with 100% client retention
+- ☁️ **Operational Excellence**: 20+ years managing technical operations, service delivery, and customer success
+- 🎯 **P&L Management**: Full business responsibility with consistent profitability and cost optimization expertise
+- 📊 **Customer Success**: Achieved measurable service level agreements and exceptional stakeholder management
+- 🏢 **Executive Communication**: Seminary training providing advanced presentation and relationship management capabilities
 
 ## Technical Skills
 
@@ -123,23 +123,24 @@ Building cloud engineering expertise through Elite 4-Certification strategy and 
 - 📧 **Email**: cloud@joshuamichaelhall.com
 - 📍 **Location**: Arkansas (100% Remote)
 
-## What I'm Looking For
+## Target Opportunities
 
-Seeking cloud engineering roles where I can apply systematic technical development with business understanding to deliver practical infrastructure solutions. Particularly interested in positions involving cost optimization, security, and infrastructure automation.
+Seeking associate-level cloud roles where business leadership background provides competitive advantage and positions for rapid advancement to senior positions. Targeting customer success, technical account management, and operations excellence roles.
 
-**Target Environment:**
+**Target Role Categories:**
 
-- Cloud engineering or infrastructure role with growth potential
-- Cost optimization and security specialization opportunities
-- Organization valuing both technical skills and business understanding
-- Team-oriented environment with mentorship and learning opportunities
-- Company building scalable, efficient cloud infrastructure
+- Customer Success Associate - Cloud Division ($95-110K)
+- Technical Account Associate with customer-facing responsibilities
+- Cloud Operations Associate emphasizing operational excellence
+- Junior Solutions positions with business stakeholder interaction
 
-**Target Companies**: Technology companies with strong cloud infrastructure needs, cloud-native startups, established enterprises modernizing infrastructure, and organizations prioritizing cost efficiency and security.
+**Target Companies**: Fortune 500 companies (Southwest Airlines, Capital One, American Airlines), high-growth technology firms, AWS partner organizations, and enterprise consulting firms valuing business experience with technical competence.
+
+**Advancement Positioning**: 18-24 month progression to senior roles ($130-170K) through demonstrated business leadership excellence and advanced AWS expertise.
 
 ---
 
-_"Combining entrepreneurial business experience with systematic technical development to build cloud engineering expertise focused on cost optimization and practical infrastructure solutions."_
+_"Business leader applying proven customer obsession, operational excellence, and cost optimization expertise to cloud architecture solutions that deliver both technical functionality and measurable business outcomes."_
 
 ### GitHub Stats
 
