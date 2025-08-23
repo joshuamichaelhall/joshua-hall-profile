@@ -22,7 +22,7 @@ Combining established business expertise with AWS certified competence and syste
 
 ## Business Leadership Foundation
 
-- 💼 **MSP Leadership**: Founded and scaled managed services practice generating $250K annual revenue with 100% client retention
+- 💼 **MSP Leadership**: Founded and scaled managed services practice with 100% client retention across 30+ demanding business clients
 - ☁️ **Operational Excellence**: 20+ years managing technical operations, service delivery, and customer success
 - 🎯 **P&L Management**: Full business responsibility with consistent profitability and cost optimization expertise
 - 📊 **Customer Success**: Achieved measurable service level agreements and exceptional stakeholder management
@@ -129,14 +129,14 @@ Seeking associate-level cloud roles where business leadership background provide
 
 **Target Role Categories:**
 
-- Customer Success Associate - Cloud Division ($95-110K)
+- Customer Success Associate - Cloud Division with competitive compensation
 - Technical Account Associate with customer-facing responsibilities
 - Cloud Operations Associate emphasizing operational excellence
 - Junior Solutions positions with business stakeholder interaction
 
 **Target Companies**: Fortune 500 companies (Southwest Airlines, Capital One, American Airlines), high-growth technology firms, AWS partner organizations, and enterprise consulting firms valuing business experience with technical competence.
 
-**Advancement Positioning**: 18-24 month progression to senior roles ($130-170K) through demonstrated business leadership excellence and advanced AWS expertise.
+**Advancement Positioning**: 18-24 month progression to senior roles through demonstrated business leadership excellence and advanced AWS expertise.
 
 ---
 
