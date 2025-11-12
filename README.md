@@ -1,16 +1,16 @@
-## Cloud Security Professional | AWS SAA | Security+ | 43+ Clients Secured | Zero Breaches | Defense Sector Ready
+## Cloud Security Professional | AWS SAA | Security+ | 30+ Business Clients Secured | Zero Breaches | Defense Sector Ready
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#cloud-security-engineer--aws-saa--security--targeting-defense-contractors)
 
-🔒 **Zero-breach track record** across 43+ production environments | 500+ endpoints secured | $500K+ ransomware damages prevented | Building secure cloud infrastructure for national security
+🔒 **Zero-breach track record** across 30+ business clients | 100+ endpoints managed | Significant ransomware damages prevented | Building secure cloud infrastructure for national security
 
 ## About Me
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#about-me)
 
-Cloud Security Professional with proven operational experience managing security for 43+ organizations.
-- 500+ endpoints secured with zero breaches
-- $500K+ ransomware damages prevented  
+Cloud Security Professional with proven operational experience managing security for 30+ business clients.
+- 100+ endpoints managed with zero breaches
+- Significant ransomware damages prevented  
 - Inherited and stabilized environments others couldn't
 
 - ✅ **AWS Solutions Architect Associate** certified
@@ -26,9 +26,11 @@ Cloud Security Professional with proven operational experience managing security
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#security-operations)
 
-- Zero security breaches across 43+ MSP clients
-- 500+ endpoints with enterprise-grade security
-- $500K+ prevented damages from ransomware attacks
+- Zero security breaches across 30+ business clients
+- 100+ endpoints managed with enterprise-grade security
+- 33 access points installed, 11 firewalls configured
+- 96 endpoints managed with SOC services
+- Significant prevented damages from ransomware attacks
 - <2 hour incident response time, 24/7
 - Incident response and remediation
 - HIPAA compliance translating to NIST/FedRAMP
@@ -78,7 +80,11 @@ Cloud resume tailored for defense contractor requirements:
 **MSP Founder (2020-2023)**
 
 - Called when others failed - stabilized multiple compromised environments
-- 43+ organizations across healthcare, finance, legal sectors
+- 30+ business clients across healthcare, finance, legal sectors
+- 100+ endpoints managed (100+ Windows PCs, 9 Macs)
+- 6 Windows servers, 2 Linux servers installed/configured
+- 61 managed cloud accounts (AD), 15 backup solutions configured
+- 2 websites built and deployed, multiple email/domain migrations
 - Implemented security frameworks achieving zero breaches
 - Managed heterogeneous environments (Linux, Windows, macOS)
 - Built compliant infrastructure from compromised states
