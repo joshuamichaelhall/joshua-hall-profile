@@ -1,4 +1,4 @@
-## Cloud Security Professional | AWS SAA | Security+ | 30+ Business Clients Secured | Zero Breaches | Defense Sector Ready
+## Cloud Security Professional | AWS SAA | Security+ | CMMC CCP/CCA (Dec-Jan) | 30+ Business Clients Secured | Zero Breaches
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#cloud-security-engineer--aws-saa--security--targeting-defense-contractors)
 
