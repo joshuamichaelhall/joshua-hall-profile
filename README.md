@@ -2,7 +2,7 @@
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#cloud-security-engineer--aws-saa--security--targeting-defense-contractors)
 
-🔒 **Zero-breach track record** across 30+ business clients | 100+ endpoints managed | Significant ransomware damages prevented | Building secure cloud infrastructure for national security
+🔒 **Zero-breach track record** across 30+ business clients | 100+ endpoints managed | Significant ransomware damages prevented | Building complete federal credential stack for March 2026
 
 ## About Me
 
@@ -10,13 +10,14 @@
 
 Cloud Security Professional with proven operational experience managing security for 30+ business clients.
 - 100+ endpoints managed with zero breaches
-- Significant ransomware damages prevented  
+- Significant ransomware damages prevented
 - Inherited and stabilized environments others couldn't
 
-- ✅ **AWS Solutions Architect Associate** certified
-- ✅ **CompTIA Security+** (DoD 8570 compliant)
-- 🎯 **AWS Security Specialty** in progress
-- 🚀 **Federal Cloud Resume** with RMF control mapping
+- ✅ **AWS Solutions Architect Associate** (Nov 8, 2025)
+- ✅ **CompTIA Security+ CE** (Nov 16, 2025) - DoD 8570 IAT Level II
+- 🎯 **CMMC CCP** (Dec 20, 2025) + **CMMC CCA** (Jan 15, 2026)
+- 🎯 **AWS Security Specialty** (Feb 28, 2026)
+- 🚀 **Federal Cloud Resume** (Nov 2025) with NIST 800-53 controls
 
 ## Core Competencies
 
@@ -62,7 +63,7 @@ Cloud Security Professional with proven operational experience managing security
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#%EF%B8%8F-federal-cloud-resume)
 
-**[Live Demo](https://joshuamichaelhall.com/) | [Repository](https://github.com/joshuamichaelhall/federal-cloud-resume)**
+**[Live Demo](https://joshuamichaelhall.com/) | [Repository](https://github.com/joshuamichaelhall/federal-cloud-resume)**
 
 Cloud resume tailored for defense contractor requirements:
 
@@ -93,15 +94,18 @@ Cloud resume tailored for defense contractor requirements:
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#current-focus)
 
-🎯 Actively pursuing cloud security engineer roles with defense contractors 📍 Targeting Huntsville, AL defense ecosystem 🔐 Clearance eligible with clean background 💼 Ready to relocate immediately
+🎯 Building complete credential stack (CCP + CCA + AWS Security Specialty)
+📍 re:Invent Dec 1-5, 2025 | CMMC Training Dec 8-12 | Job Search: March 2026
+🔐 Clearance eligible - Tier 3 application submitted December 2025
+💼 Targeting Huntsville, AL defense contractors with clearance sponsorship
 
 ## Connect
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#connect)
 
-- 🌐 **Website**: [joshuamichaelhall.com](https://joshuamichaelhall.com/)
-- 💼 **LinkedIn**: [/in/joshuamichaelhall](https://linkedin.com/in/joshuamichaelhall)
-- 📧 **Email**: [contact@joshuamichaelhall.com](mailto:contact@joshuamichaelhall.com)
+- 🌐 **Website**: [joshuamichaelhall.com](https://joshuamichaelhall.com/)
+- 💼 **LinkedIn**: [/in/joshuamichaelhall](https://linkedin.com/in/joshuamichaelhall)
+- 📧 **Email**: [contact@joshuamichaelhall.com](mailto:contact@joshuamichaelhall.com)
 
 ---
 
