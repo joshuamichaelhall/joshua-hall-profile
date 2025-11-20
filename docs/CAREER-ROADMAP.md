@@ -1,63 +1,66 @@
-# Career Roadmap: Business Leader to Cloud Professional Strategy
+# Career Roadmap: Cloud Infrastructure Engineer Federal Positioning Strategy
 
 ## Strategic Summary
 
-This roadmap outlines a 12-month strategic progression from business leader to recognized cloud professional, leveraging proven operational excellence and customer success expertise to secure associate-level cloud roles with advancement potential.
+This roadmap outlines the strategic progression to Cloud Infrastructure Engineer roles in federal defense contracting, leveraging zero-breach operational experience and complete credential stack for premium positioning.
 
 ### Master Strategy
-Position as "Business Leader Expanding into Cloud Architecture" - applying established business expertise to cloud solutions that deliver measurable outcomes. Not a career changer or beginner, but experienced business leader with technical competence.
+Position as "Cloud Infrastructure Engineer with Federal Compliance Expertise" - applying proven security operations and complete credential stack to build compliant cloud infrastructure for defense contractors.
 
 ### Success Formula
-**MSP Leadership (100% Retention) + AWS Expertise + Customer Success + Operational Excellence = Premium Cloud Professional**
+**Zero-Breach Track Record + Complete Federal Credential Stack + AWS Security Expertise + Operational Excellence = Premium Cloud Infrastructure Engineer**
 
 ## Current Position & Target
 
 ### What You Are
-- **Business Leader** with proven P&L management and 100% client retention record
-- **Customer Success Expert** with operational excellence and service delivery expertise
-- **Technical Competence** with AWS certification and Launch School engineering foundation
-- **Executive Communicator** with seminary training and stakeholder management experience
-- **Systematic Problem-Solver** applying business judgment to technical implementations
+- **Cloud Infrastructure Engineer** with zero-breach track record across 30+ organizations (10 years)
+- **Federal Compliance Expert** with CMMC CCP/CCA + AWS Security Specialty + NIST/FedRAMP knowledge
+- **Operational Security Professional** with proven ability to stabilize compromised environments
+- **Technical Leader** with heterogeneous environment management and incident response expertise
+- **Mission-Critical Operations** with <2 hour response time and 24/7 availability track record
 
 ### Target Position (Phase 1 - Months 4-6)
-**"Associate-Level Cloud Role with Business Leadership Premium"**
-- Customer Success Associate - Cloud Division with competitive compensation
-- Technical Account Associate with customer-facing responsibilities
-- Cloud Operations Associate with operational excellence focus
-- Business leadership differentiation for competitive advantage
+**"Cloud Infrastructure Engineer I/II with Federal Compliance Premium"**
+- Cloud Infrastructure Engineer with defense contractor focus
+- Federal Cloud Engineer with CMMC assessment expertise
+- Infrastructure Engineer with AWS security specialization
+- Cloud Security Engineer with operational excellence focus
 
 ### Evolution Position (Phase 2 - Months 18-24)
-**"Senior Cloud Professional with Business Impact Recognition"**
-- Senior Cloud Engineer, Customer Success Manager, or Technical Account Manager
-- Advanced AWS certifications with specialized expertise
-- Industry recognition through Dallas cloud community engagement
-- Clear pathway to principal, director, or executive level positions
+**"Senior Cloud Infrastructure Professional with Federal Expertise"**
+- Senior Cloud Infrastructure Engineer or Cloud Security Engineer
+- Advanced AWS certifications with federal compliance specialization
+- Industry recognition through Huntsville defense community engagement
+- Clear pathway to principal architect, technical lead, or executive level positions
 
 ## 12-Month Strategic Career Development
 
-### Phase 1: Foundation Building (Months 1-3)
-**Objective**: Build comprehensive cloud expertise while maintaining business leader positioning
+### Phase 1: Complete Credential Stack (Nov 2025 - Feb 2026)
+**Objective**: Build complete federal credential stack before job applications
 
-- **AWS Certification**: Private study with business-focused learning approach
-- **Portfolio Projects**: 3 business-value projects with ROI analysis and professional documentation
-- **Professional Brand**: LinkedIn optimization, content strategy, networking materials
-- **Success Criteria**: AWS SAA certification, professional portfolio, optimized brand
+- **AWS Certifications**: SAA (Nov 8) + Security Specialty (March 2026)
+- **CMMC Certifications**: CCP (Dec 18) + CCA (Dec 27) - Rare dual certification
+- **Federal Training**: FEMA ICS/NIMS + FAC-COR Level I + DAU ACQ 101 (Jan 2026)
+- **Portfolio Projects**: Federal Cloud Resume + Federal Security Dashboard with NIST 800-53 mappings
+- **Success Criteria**: Complete credential stack, assessment-ready portfolio, clearance processing
 
-### Phase 2: Market Entry (Months 4-6)
-**Objective**: Secure associate-level cloud role leveraging business leadership differentiation
+### Phase 2: Premium Market Entry (Feb-Apr 2026)
+**Objective**: Secure Cloud Infrastructure Engineer role leveraging complete credential stack
 
-- **Target Applications**: 15+ targeted applications emphasizing business value
-- **Interview Strategy**: Business leadership positioning with technical competence demonstration
-- **Network Development**: 25+ meaningful professional relationships
-- **Success Criteria**: Multiple offers, competitive compensation, advancement pathway
+- **Applications Launch**: Feb 10, 2026 with complete stack
+- **Target Companies**: Huntsville defense contractors (Leidos, SAIC, Northrop Grumman, etc.)
+- **Interview Strategy**: Cloud Infrastructure Engineer positioning with federal compliance expertise
+- **Network Development**: AWS re:Invent connections + Huntsville defense community
+- **Success Criteria**: Multiple offers at $100-105K range, clearance sponsorship, advancement pathway
 
-### Phase 3: Career Acceleration (Months 7-12)
+### Phase 3: Career Acceleration (2026-2027)
 **Objective**: Excel in role and position for advancement to senior positions
 
-- **Performance Excellence**: Year 1 strategy leveraging business background
-- **Advanced Certifications**: Professional-level AWS credentials and specializations
-- **Industry Leadership**: Dallas community engagement and thought leadership
-- **Success Criteria**: Top performance ratings, advancement pathway, industry recognition
+- **Performance Excellence**: Year 1 strategy leveraging operational security experience
+- **Advanced Specializations**: AWS Professional certifications + CISSP (2027)
+- **Industry Leadership**: Huntsville defense community engagement and federal cloud expertise
+- **CMMC Consulting**: $150-200/hour opportunities starting Dec 18, 2025
+- **Success Criteria**: Top performance ratings, senior role progression, industry recognition
 
 ### Daily Schedule During Sprint (45 hours/week)
 ```
@@ -75,149 +78,151 @@ Weekend: 4 hours Saturday only
 
 ## Career Progression Path
 
-### Years 1-2: Foundation + Specialization Prep
-- **Role**: Cloud Engineer → Cloud Engineer (Cost/Security Focus)
-- **Focus**: Master AWS, add Security+, begin specialization
+### Years 1-2: Infrastructure Engineer → Senior Infrastructure Engineer
+- **Role**: Cloud Infrastructure Engineer I → Cloud Infrastructure Engineer II
+- **Focus**: AWS security mastery, CMMC consulting, federal compliance expertise
 
-### Years 3-4: Specialized Senior Engineering
-- **Role**: Senior Cloud Engineer (Cost & Security)
-- **Focus**: Lead optimization initiatives, develop expertise
+### Years 3-4: Senior → Principal Engineering
+- **Role**: Senior Cloud Infrastructure Engineer → Principal Cloud Architect
+- **Focus**: Lead infrastructure initiatives, technical leadership, architecture design
 
-### Years 5-6: Architecture & Leadership
-- **Role**: Principal Cloud Architect
-- **Focus**: Enterprise strategies, technical leadership
+### Years 5-6: Principal → Staff Leadership
+- **Role**: Principal Cloud Architect → Staff Engineer
+- **Focus**: Enterprise cloud strategies, technical leadership, mentorship
 
-### Years 7-8: Senior Leadership
-- **Role**: Staff Engineer or Engineering Manager
-- **Focus**: Lead cloud cost optimization teams
+### Years 7-8: Senior → Executive Leadership
+- **Role**: Staff Engineer → Engineering Manager → Director
+- **Focus**: Team leadership, strategic initiatives, P&L responsibility
 
-### Years 9-10: Principal Leadership
-- **Role**: Distinguished Engineer or Director
-- **Focus**: Industry expertise, technical strategy
+### Years 9-10: Executive → C-Suite
+- **Role**: Director → VP Engineering → CTO
+- **Focus**: Executive leadership, strategic vision, technical strategy
 
 ## Certification Roadmap
 
-### Sprint Phase (August-November 2025)
-- [X] CompTIA Security+ (August 3)
-- [ ] AWS Solutions Architect Associate (September 5-7)
+### Foundation Phase (Nov 2025)
+- [X] AWS Solutions Architect Associate (Nov 8, 2025)
+- [X] CompTIA Security+ (Nov 16, 2025)
 
-### Year 1 (Post-Employment)
-1. AWS Developer Associate (Q3 2026)
-2. AWS Security Specialty (Q4 2026)
-3. FinOps Certified Practitioner (Q4 2026)
-4. Cloud Security Alliance CCSK
+### Complete Stack Phase (Dec 2025 - Feb 2026)
+1. CMMC Certified Professional (Dec 18, 2025)
+2. CMMC Certified Assessor (Dec 27, 2025)
+3. FEMA ICS/NIMS + FAC-COR Level I + DAU ACQ 101 (Jan 2026)
+4. AWS Security Specialty (March 2026 - after employment)
 
-### Year 2+
-- AWS Cost Optimization Specialty (when available)
-- PCI Professional (PCIP)
-- Kubernetes CKS
-- AWS Solutions Architect Professional
+### Year 1-2 (Post-Employment)
+- AWS Solutions Architect Professional (2027)
+- CISSP (2027)
+- PMP (2027)
+- Additional AWS specializations
 
 ## Portfolio Projects
 
-### Project 1: Multi-Cloud Cost Dashboard
-- Real-time cost tracking across AWS/Azure/GCP
-- Automated anomaly detection and alerts
-- Savings recommendations engine
-- **Tech**: Python, Boto3, Terraform, React
+### Project 1: Federal Cloud Resume (joshuahall.tech)
+- S3 + CloudFront + Lambda + API Gateway + DynamoDB
+- Full Terraform IaC with least-privilege IAM
+- Serverless visitor counter with encryption
+- **Tech**: AWS, Terraform, Python, JavaScript
 
-### Project 2: Security Automation Platform
-- Automated compliance checking
-- Auto-remediation for misconfigurations
-- Integration with Security Hub/GuardDuty
-- **Tech**: Lambda, EventBridge, Python
+### Project 2: Federal Security Dashboard (Feb 2026)
+- CloudTrail + Security Hub + GuardDuty + Config + WAF + KMS
+- NIST 800-53 control mappings (AC, AU, SI, SC, CM)
+- Automated compliance monitoring and alerting
+- **Tech**: AWS Security Services, Terraform, Python
 
-### Project 3: Serverless CI/CD Pipeline
-- Complete GitOps implementation
-- Multi-environment deployments
-- Automated testing and rollback
-- **Tech**: GitHub Actions, CodePipeline, Docker
+### Project 3: CMMC Assessment Toolkit
+- Automated CMMC practice verification
+- Evidence collection and documentation
+- Assessment readiness dashboard
+- **Tech**: Python, AWS Config, Systems Manager
 
-### Project 4: Infrastructure Monitoring Solution
-- Custom CloudWatch dashboards
-- Predictive scaling algorithms
-- Cost optimization recommendations
-- **Tech**: Python, Terraform, Grafana
+### Project 4: Infrastructure as Code Templates
+- NIST 800-53 compliant AWS architectures
+- Multi-account security baselines
+- Automated security configuration
+- **Tech**: Terraform, CloudFormation, Python
 
 ## Target Companies
 
-### Tier 1: Remote-First Tech Leaders
-- GitLab, HashiCorp, Datadog, MongoDB
-- Elastic, Confluent, Cloudflare
+### Tier 1: Major Defense Contractors (Huntsville)
+- Leidos, SAIC, Northrop Grumman, Lockheed Martin
+- Booz Allen Hamilton, GDIT, Raytheon
 
-### Tier 2: Cloud Consultancies
-- 2nd Watch, CloudReach, Slalom
-- Onica/Rackspace, DoiT International
+### Tier 2: Mid-Size Defense Contractors
+- CACI, ManTech, General Dynamics IT
+- Peraton, KBR, Jacobs
 
-### Tier 3: High-Growth SaaS
-- Stripe, Twilio, Okta, Snowflake
-- Databricks, Grafana Labs
+### Tier 3: Specialized Federal Contractors
+- Clearance Jobs companies with cloud focus
+- AWS Partners with federal practice
+- Huntsville tech companies with defense contracts
 
 ## Interview Positioning
 
 ### Phase 1 Core Pitch
-"I bring a unique combination: I founded and operated an MSP, giving me deep understanding of infrastructure management and business impact. Combined with strong programming fundamentals (Ruby, Python, SQL, databases, OOP) and AWS expertise, I can build automation solutions and understand the business value of technical decisions."
+"I bring a unique combination: zero-breach track record across 30+ organizations plus complete federal credential stack. With CMMC CCP/CCA + AWS Security Specialty + proven operational excellence, I can build assessment-ready cloud infrastructure that passes CMMC audits the first time while maintaining mission-critical availability."
 
 ### Key Differentiators
-- **Business Acumen**: Understand ROI, not just technology
-- **Leadership Experience**: Can communicate up and down
-- **Real Builder**: Create production systems, not tutorials
-- **Mature Perspective**: Bring wisdom to technical decisions
-- **Self-Directed**: Proven ability to manage yourself
+- **Operational Excellence**: Zero breaches under pressure for 10 years
+- **Federal Expertise**: CMMC assessment + AWS security + NIST compliance
+- **Real Experience**: Stabilized environments others couldn't fix
+- **Mission-Critical Mindset**: <2 hour response time, 24/7 availability
+- **Complete Stack**: All credentials before applications = premium positioning
 
 ## Success Metrics
 
-### Sprint Phase (90 Days)
-- [ ] AWS SAA certification passed
-- [ ] 4 portfolio projects deployed
-- [ ] 100+ cloud engineering connections
-- [ ] 50+ applications submitted
-- [ ] Multiple offers in negotiation
+### Complete Stack Phase (Nov 2025 - Feb 2026)
+- [X] AWS SAA certification passed (Nov 8)
+- [X] Security+ passed (Nov 16)
+- [ ] CMMC CCP + CCA passed (Dec 18 & Dec 27)
+- [ ] Federal training complete (Jan 2026)
+- [ ] Federal Security Dashboard complete (Feb 2026)
 
-### Year 1
-- [ ] Employed as cloud engineer
-- [ ] 3-4 additional certifications
-- [ ] Known for cost optimization expertise
-- [ ] Contributing to open source projects
+### Year 1 (2026)
+- [ ] Employed as Cloud Infrastructure Engineer ($100-105K)
+- [ ] AWS Security Specialty + Professional certs
+- [ ] Known for CMMC + AWS expertise
+- [ ] CMMC consulting $150-200/hour
 
-### Year 5
-- [ ] Senior/Principal level role
-- [ ] Industry recognition for expertise
-- [ ] Thought leadership position
-- [ ] Speaking at conferences
+### Year 5 (2030)
+- [ ] Principal Cloud Architect ($130-140K)
+- [ ] Industry recognition for federal cloud expertise
+- [ ] Speaking at defense/cloud conferences
+- [ ] Technical leadership in Huntsville community
 
-### Year 10
-- [ ] Distinguished engineer or director level
-- [ ] Industry expert recognition
+### Year 10 (2035)
+- [ ] VP Engineering or CTO level ($200-300K+)
+- [ ] Industry expert in federal cloud security
 - [ ] Financial independence achieved
-- [ ] Technical leadership impact
+- [ ] Executive leadership impact in defense sector
 
 ## Family-First Principles
 
 ### Non-Negotiables
-1. **100% Remote Work** - No compromise
-2. **Maximum 25% Travel** - Family presence priority
-3. **Protected Family Time** - 5-7 PM daily
-4. **Sabbath Observance** - Friday evening to Saturday evening
-5. **Arkansas Base** - Community and cost advantages
+1. **Huntsville, AL Base** - Defense contractor hub location
+2. **Family Integration** - Stable location with excellent schools
+3. **Career Growth** - Major defense contractor presence
+4. **Cost of Living** - Excellent value compared to DC/Northern VA
+5. **Community** - Strong technical and amateur radio community
 
 ## Next Actions
 
 ### This Week
-- [ ] Complete AWS environment setup
-- [ ] Begin Adrian Cantrill AWS SAA course
-- [ ] Start first portfolio project
-- [ ] Update LinkedIn profile
-- [ ] Connect with 10 cloud professionals
+- [X] AWS SAA certification complete
+- [X] Security+ certification complete
+- [X] Federal Cloud Resume Phase 1 live
+- [ ] CMMC training Dec 8-13
+- [ ] AWS re:Invent networking Dec 1-6
 
 ### Sprint Week 1
-- [ ] Complete AWS fundamentals modules
-- [ ] Deploy first project iteration
-- [ ] Publish first technical blog post
-- [ ] Apply to 5 cloud positions
+- [ ] CMMC CCP exam (Dec 18)
+- [ ] CMMC CCA exam (Dec 27)
+- [ ] Tier 3 clearance application (Dec 23)
+- [ ] Federal training modules (Jan 2026)
+- [ ] Applications launch (Feb 10, 2026)
 
 ---
 
-**Remember**: You're building a unique position as "The Cloud Engineer Who Saves Companies Millions While Keeping Them Secure." Your path is clear. Your timeline is set. Your success is inevitable.
+**Remember**: You're building the rare combination of "Zero-Breach Operational Experience + Complete Federal Credential Stack." Defense contractors desperately need this combination. Your positioning is premium, not entry-level.
 
-**Sprint starts Monday, August 4. Execute with confidence!**
+**Applications launch February 10, 2026. Complete stack = Premium offers.**
