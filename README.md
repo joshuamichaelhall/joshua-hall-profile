@@ -65,25 +65,13 @@ Cloud Security Architect with proven operational experience and complete federal
 
 **[Live Demo](https://joshuahall.tech/) | [Repository](https://github.com/joshuamichaelhall-tech/federal-cloud-resume)**
 
-Cloud security demonstration for defense contractor requirements:
+Production cloud resume demonstrating serverless architecture and security best practices:
 
-**Phase 1 - Core Architecture (November 2025):**
-- S3 + CloudFront + Route 53 architecture
-- API Gateway + Lambda + DynamoDB backend
-- Full-stack visitor counter with serverless implementation
-- IAM least-privilege policies
-- Encryption in transit and at rest
-
-**Phase 2 - Federal Security Controls (Post-Employment):**
-- **CloudTrail**: Multi-region logging with S3 encryption
-- **Security Hub**: Centralized findings aggregation
-- **GuardDuty**: Threat detection across AWS services
-- **Config**: Continuous compliance monitoring
-- **WAF**: CloudFront protection rules
-- **KMS**: Customer-managed encryption keys with rotation
-- **Terraform IaC**: Infrastructure automation and reproducibility
-- **NIST 800-53 Control Mappings**: AC, AU, SI, SC, CM families
-- **Architecture documentation** and security baseline
+- **Frontend**: S3 static hosting with CloudFront CDN and Route 53 DNS
+- **Backend**: API Gateway + Lambda (Python) + DynamoDB with atomic counter
+- **Security**: IAM least-privilege policies, encryption at rest and in transit, HTTPS enforcement
+- **Custom Domain**: ACM SSL certificate with automated renewal
+- **Live Demo**: Working visitor counter with real-time API integration
 
 ## Real-World Security Experience
 
