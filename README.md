@@ -1,14 +1,14 @@
-## Cloud Infrastructure Engineer | AWS SAA | Security+ | CMMC CCP/CCA (Dec 2025) | Amateur Extra (KI2W) | Huntsville 2026
+## Cloud Security Architect | AWS SAA | Security+ | CMMC CCP/CCA | Amateur Extra (KI2W) | Huntsville 2026
 
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#cloud-security-engineer--aws-saa--security--targeting-defense-contractors)
+[](https://github.com/joshuamichaelhall/joshua-hall-profile#cloud-security-architect--aws-saa--security--cmmc-ccpcca)
 
-🔒 **Zero-breach track record** across 30+ organizations over 10 years | Building complete federal infrastructure credential stack | Applications launch Feb 10, 2026
+🔒 **Zero-breach track record** across 30+ organizations over 10 years | Building complete federal infrastructure credential stack | Seeking Cloud Security Architect opportunities early 2026
 
 ## About Me
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#about-me)
 
-Cloud Infrastructure Engineer with proven operational experience and complete federal credential stack.
+Cloud Security Architect with proven operational experience and complete federal credential stack.
 
 **Current Credentials (Nov 2025):**
 - ✅ **AWS Solutions Architect Associate** (Nov 8, 2025)
@@ -21,15 +21,15 @@ Cloud Infrastructure Engineer with proven operational experience and complete fe
 - 🎯 **FEMA ICS/NIMS** + **FAC-COR Level I** + **DAU ACQ 101** (Jan 2026)
 - 🎯 **AWS Certified Security - Specialty** (March 2026 - after employment)
 
-**Applications Launch:** February 10, 2026 with complete credential stack
+**Availability:** Early 2026 with complete credential stack
 
 ## Core Competencies
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#core-competencies)
 
-### Security Operations
+### Infrastructure Operations
 
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#security-operations)
+[](https://github.com/joshuamichaelhall/joshua-hall-profile#infrastructure-operations)
 
 - Zero security breaches across 30+ organizations (10 years)
 - 100+ endpoints with enterprise-grade security
@@ -102,11 +102,11 @@ Cloud security demonstration for defense contractor requirements:
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#current-focus)
 
-🎯 Completing federal credential stack (Nov 2025 - Feb 2026)
-📍 AWS re:Invent Dec 1-6 (networking only, NO applications)
+🎯 Completing federal credential stack (Nov 2025 - Early 2026)
+📍 AWS re:Invent Dec 1-6 (networking and learning)
 🎯 CMMC Training Dec 8-13 in Mesa, AZ
 🔐 Tier 3 clearance processing
-💼 Applications launch Feb 10, 2026
+💼 Available early 2026
 📍 Relocating to Huntsville, AL
 
 ## Connect
@@ -119,5 +119,5 @@ Cloud security demonstration for defense contractor requirements:
 
 ---
 
-_Building complete federal security credential stack for Cloud Infrastructure Engineer roles in defense contracting with executive trajectory planning_
+_Building complete federal security credential stack for Cloud Security Architect roles in defense contracting with strategic career growth_
 

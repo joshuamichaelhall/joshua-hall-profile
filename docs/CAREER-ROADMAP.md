@@ -1,37 +1,37 @@
-# Career Roadmap: Cloud Infrastructure Engineer Federal Positioning Strategy
+# Career Roadmap: Cloud Security Architect Federal Positioning Strategy
 
 ## Strategic Summary
 
-This roadmap outlines the strategic progression to Cloud Infrastructure Engineer roles in federal defense contracting, leveraging zero-breach operational experience and complete credential stack for premium positioning.
+This roadmap outlines the strategic progression to Cloud Security Architect roles in federal defense contracting, leveraging zero-breach operational experience, architecture leadership, and complete credential stack for architect-level positioning.
 
 ### Master Strategy
-Position as "Cloud Infrastructure Engineer with Federal Compliance Expertise" - applying proven security operations and complete credential stack to build compliant cloud infrastructure for defense contractors.
+Position as "Cloud Security Architect with CMMC Expertise" - applying proven architecture experience, MSP ownership, and rare CMMC CCP/CCA credentials to architect compliant cloud security solutions for defense contractors.
 
 ### Success Formula
-**Zero-Breach Track Record + Complete Federal Credential Stack + AWS Security Expertise + Operational Excellence = Premium Cloud Infrastructure Engineer**
+**Zero-Breach Track Record + Architecture Leadership + CMMC CCP/CCA + AWS Security Expertise + Business Ownership = Architect-Level Positioning**
 
 ## Current Position & Target
 
 ### What You Are
-- **Cloud Infrastructure Engineer** with zero-breach track record across 30+ organizations (10 years)
-- **Federal Compliance Expert** with CMMC CCP/CCA + AWS Security Specialty + NIST/FedRAMP knowledge
-- **Operational Security Professional** with proven ability to stabilize compromised environments
-- **Technical Leader** with heterogeneous environment management and incident response expertise
-- **Mission-Critical Operations** with <2 hour response time and 24/7 availability track record
+- **Cloud Security Architect** with zero-breach track record across 30+ organizations (10 years)
+- **MSP Owner** with P&L responsibility and architecture leadership experience
+- **CMMC Expert** with CCP/CCA certifications (one of ~50 in Alabama)
+- **Security Architect** with proven ability to design and implement secure environments
+- **Business Leader** with executive stakeholder management and crisis leadership experience
 
-### Target Position (Phase 1 - Months 4-6)
-**"Cloud Infrastructure Engineer I/II with Federal Compliance Premium"**
-- Cloud Infrastructure Engineer with defense contractor focus
-- Federal Cloud Engineer with CMMC assessment expertise
-- Infrastructure Engineer with AWS security specialization
-- Cloud Security Engineer with operational excellence focus
+### Target Position (Phase 1 - Early 2026)
+**"Cloud Security Architect with CMMC Expertise"**
+- Cloud Security Architect with defense contractor focus
+- Security Architect with CMMC assessment capability
+- Architecture role commanding architect-level compensation
+- Strategic positioning with rare credential combination
 
-### Evolution Position (Phase 2 - Months 18-24)
-**"Senior Cloud Infrastructure Professional with Federal Expertise"**
-- Senior Cloud Infrastructure Engineer or Cloud Security Engineer
-- Advanced AWS certifications with federal compliance specialization
-- Industry recognition through Huntsville defense community engagement
-- Clear pathway to principal architect, technical lead, or executive level positions
+### Evolution Position (Phase 2 - Year 2-3)
+**"Senior Cloud Security Architect with Hybrid Income"**
+- Senior Cloud Security Architect commanding premium compensation
+- Hybrid income model: Primary architect role + CMMC consulting
+- Industry recognition through thought leadership and speaking
+- Clear pathway to Principal Architect, Director, or VP roles
 
 ## 12-Month Strategic Career Development
 
@@ -44,10 +44,10 @@ Position as "Cloud Infrastructure Engineer with Federal Compliance Expertise" - 
 - **Portfolio Projects**: Federal Cloud Resume + Federal Security Dashboard with NIST 800-53 mappings
 - **Success Criteria**: Complete credential stack, assessment-ready portfolio, clearance processing
 
-### Phase 2: Premium Market Entry (Feb-Apr 2026)
-**Objective**: Secure Cloud Infrastructure Engineer role leveraging complete credential stack
+### Phase 2: Architect-Level Market Entry (Early 2026 - June 2026)
+**Objective**: Secure Cloud Security Architect role leveraging complete credential stack and architecture experience
 
-- **Applications Launch**: Feb 10, 2026 with complete stack
+- **Applications Launch**: Early 2026 with complete stack
 - **Target Companies**: Huntsville defense contractors (Leidos, SAIC, Northrop Grumman, etc.)
 - **Interview Strategy**: Cloud Infrastructure Engineer positioning with federal compliance expertise
 - **Network Development**: AWS re:Invent connections + Huntsville defense community
@@ -219,10 +219,10 @@ Weekend: 4 hours Saturday only
 - [ ] CMMC CCA exam (Dec 27)
 - [ ] Tier 3 clearance application (Dec 23)
 - [ ] Federal training modules (Jan 2026)
-- [ ] Applications launch (Feb 10, 2026)
+- [ ] Applications launch (Early 2026)
 
 ---
 
 **Remember**: You're building the rare combination of "Zero-Breach Operational Experience + Complete Federal Credential Stack." Defense contractors desperately need this combination. Your positioning is premium, not entry-level.
 
-**Applications launch February 10, 2026. Complete stack = Premium offers.**
+**Applications launch early 2026. Complete stack = Premium offers.**
