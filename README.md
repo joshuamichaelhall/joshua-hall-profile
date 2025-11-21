@@ -17,7 +17,7 @@ Cloud Security Architect with proven operational experience and complete federal
 
 **Completing (Dec 2025 - Feb 2026):**
 - 🎯 **CMMC Certified Professional** (Dec 18, 2025)
-- 🎯 **CMMC Certified Assessor** (Dec 27, 2025) - Rare dual CCP + CCA
+- 🎯 **CMMC Certified Assessor** (Jan 3, 2026) - Rare dual CCP + CCA
 - 🎯 **FEMA ICS/NIMS** + **FAC-COR Level I** + **DAU ACQ 101** (Jan 2026)
 - 🎯 **AWS Certified Security - Specialty** (March 2026 - after employment)
 
@@ -45,7 +45,7 @@ Cloud Security Architect with proven operational experience and complete federal
 
 - **AWS**: S3, CloudFront, Lambda, API Gateway, DynamoDB, ACM, IAM
 - **Security**: CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS, Systems Manager
-- **IaC**: Terraform for compliant, repeatable deployments
+- **IaC**: Infrastructure-as-code approach with deployment automation
 - **Monitoring**: CloudWatch, EventBridge, SNS, automated alerting
 
 ### Development & Automation
@@ -74,14 +74,14 @@ Cloud security demonstration for defense contractor requirements:
 - IAM least-privilege policies
 - Encryption in transit and at rest
 
-**Phase 2 - Federal Security Controls (February 2026):**
+**Phase 2 - Federal Security Controls (Post-Employment):**
 - **CloudTrail**: Multi-region logging with S3 encryption
 - **Security Hub**: Centralized findings aggregation
 - **GuardDuty**: Threat detection across AWS services
 - **Config**: Continuous compliance monitoring
 - **WAF**: CloudFront protection rules
 - **KMS**: Customer-managed encryption keys with rotation
-- **Complete Terraform IaC** for reproducible deployment
+- **Terraform IaC**: Infrastructure automation and reproducibility
 - **NIST 800-53 Control Mappings**: AC, AU, SI, SC, CM families
 - **Architecture documentation** and security baseline
 
