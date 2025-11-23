@@ -1,4 +1,4 @@
-## Cloud Security Architect | AWS SAA | Security+ | CMMC CCP/CCA | Amateur Extra (KI2W) | Huntsville 2026
+## Cloud Security Architect | AWS SAA | Security+ | CMMC CCP | Amateur Extra (KI2W) | Huntsville 2026
 
 🔒 **Zero-breach track record** across 30+ clients | Building complete federal infrastructure credential stack | Seeking Cloud Security Architect opportunities early 2026
 
@@ -12,11 +12,14 @@ Cloud Security Architect with proven operational experience and complete federal
 - ✅ **CompTIA Security+** (Nov 16, 2025) - DoD 8570 IAT Level II
 - ✅ **Federal Cloud Resume** live at joshuahall.tech
 
-**Completing (Dec 2025 - Jan 2026):**
+**Completing (Dec 2025 - March 2026):**
 
 - 🎯 **CMMC Certified Professional** (Dec 18, 2025)
-- 🎯 **CMMC Certified Assessor** (Jan 3, 2026)
 - 🎯 **AWS Certified Security - Specialty** (March 2026 - post-employment)
+
+**Future Goals:**
+
+- 📋 **CMMC Certified Assessor** (requires 12 months assessment experience + Tier 3 clearance)
 
 **Availability:** Early 2026 with complete credential stack
 
