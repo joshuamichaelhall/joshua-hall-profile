@@ -1,39 +1,31 @@
 ## Cloud Security Architect | AWS SAA | Security+ | CMMC CCP/CCA | Amateur Extra (KI2W) | Huntsville 2026
 
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#cloud-security-architect--aws-saa--security--cmmc-ccpcca)
-
 🔒 **Zero-breach track record** across 30+ clients | Building complete federal infrastructure credential stack | Seeking Cloud Security Architect opportunities early 2026
 
 ## About Me
 
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#about-me)
-
 Cloud Security Architect with proven operational experience and complete federal credential stack.
 
 **Current Credentials (Nov 2025):**
+
 - ✅ **AWS Solutions Architect Associate** (Nov 8, 2025)
 - ✅ **CompTIA Security+** (Nov 16, 2025) - DoD 8570 IAT Level II
 - ✅ **Federal Cloud Resume** live at joshuahall.tech
 
-**Completing (Dec 2025 - Feb 2026):**
+**Completing (Dec 2025 - Jan 2026):**
+
 - 🎯 **CMMC Certified Professional** (Dec 18, 2025)
-- 🎯 **CMMC Certified Assessor** (Jan 3, 2026) - Rare dual CCP + CCA
-- 🎯 **FEMA ICS/NIMS** + **FAC-COR Level I** + **DAU ACQ 101** (Jan 2026)
-- 🎯 **AWS Certified Security - Specialty** (March 2026 - after employment)
+- 🎯 **CMMC Certified Assessor** (Jan 3, 2026)
+- 🎯 **AWS Certified Security - Specialty** (March 2026 - post-employment)
 
 **Availability:** Early 2026 with complete credential stack
 
 ## Core Competencies
 
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#core-competencies)
-
 ### Infrastructure Operations
 
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#infrastructure-operations)
-
-- Zero security breaches across 30+ clients (2+ years)
+- Zero security breaches across 30+ clients
 - 100+ endpoints with enterprise-grade security
-- Prevented significant ransomware damages
 - <2 hour incident response time, 24/7
 - Incident response and remediation
 - HIPAA compliance translating to NIST/FedRAMP
@@ -41,16 +33,25 @@ Cloud Security Architect with proven operational experience and complete federal
 
 ### Cloud Infrastructure
 
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#cloud-infrastructure)
-
-- **AWS**: S3, CloudFront, Lambda, API Gateway, DynamoDB, ACM, IAM
-- **Security**: CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS, Systems Manager
-- **IaC**: Infrastructure-as-code approach with deployment automation
-- **Monitoring**: CloudWatch, EventBridge, SNS, automated alerting
+**AWS Fundamentals (Hands-on via Cantrill SAA Course + Project):** 
+- Compute: EC2, Lambda 
+- Storage: S3 (static hosting, versioning, lifecycle) 
+- Networking: VPC, CloudFront CDN 
+- Database: DynamoDB 
+- Security: IAM (policies, roles), ACM certificates 
+- API: API Gateway REST APIs 
+**Demonstrated in Production (joshuahall.tech):** 
+- Serverless architecture (S3 + CloudFront + Lambda + API Gateway + DynamoDB) 
+- HTTPS implementation with custom domain 
+- IAM least privilege implementation 
+- Python Lambda functions with Boto3 
+- REST API with CORS configuration 
+**Infrastructure Approach:** 
+- Manual AWS Console and CLI deployment 
+- Security best practices from the start 
+- Documentation-first development
 
 ### Development & Automation
-
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#development--automation)
 
 - **Languages**: Python (Boto3), Bash/Zsh, YAML, JavaScript
 - **Databases**: DynamoDB, PostgreSQL
@@ -58,8 +59,6 @@ Cloud Security Architect with proven operational experience and complete federal
 - **Version Control**: Git workflows
 
 ## Featured Project
-
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#featured-project)
 
 ### 🏛️ Federal Cloud Resume (joshuahall.tech)
 
@@ -75,8 +74,6 @@ Production cloud resume demonstrating serverless architecture and security best 
 
 ## Real-World Security Experience
 
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#real-world-security-experience)
-
 **MSP Owner (December 2020-July 2023)**
 
 - Called when others failed - stabilized multiple compromised environments
@@ -88,18 +85,9 @@ Production cloud resume demonstrating serverless architecture and security best 
 
 ## Current Focus
 
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#current-focus)
-
-🎯 Completing federal credential stack (Nov 2025 - Early 2026)
-📍 AWS re:Invent Dec 1-6 (networking and learning)
-🎯 CMMC Training Dec 8-13 in Mesa, AZ
-🔐 Tier 3 clearance processing
-💼 Available early 2026
-📍 Relocating to Huntsville, AL
+🎯 Completing federal credential stack (Nov 2025 - Early 2026) 🔍 AWS re:Invent Dec 1-6 (networking and learning) 🎯 CMMC Training Dec 8-13 in Mesa, AZ 💼 Available early 2026 📍 Relocating to Huntsville, AL
 
 ## Connect
-
-[](https://github.com/joshuamichaelhall/joshua-hall-profile#connect)
 
 - 🌐 **Portfolio**: [joshuahall.tech](https://joshuahall.tech/)
 - 💼 **LinkedIn**: [/in/joshuamichaelhall](https://linkedin.com/in/joshuamichaelhall)
@@ -107,5 +95,4 @@ Production cloud resume demonstrating serverless architecture and security best 
 
 ---
 
-_Building complete federal security credential stack for Cloud Security Architect roles in defense contracting with strategic career growth_
-
+_Building complete federal security credential stack for Cloud Security Architect roles in defense contracting_
