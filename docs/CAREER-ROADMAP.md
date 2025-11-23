@@ -13,7 +13,7 @@ Position as "Cloud Security Architect with CMMC Expertise" - applying proven arc
 ## Current Position & Target
 
 ### What You Are
-- **Cloud Security Architect** with zero-breach track record across 30+ organizations (10 years)
+- **Cloud Security Architect** with zero-breach track record across 30+ clients (2+ years)
 - **MSP Owner** with P&L responsibility and architecture leadership experience
 - **CMMC Expert** with CCP/CCA certifications (one of ~50 in Alabama)
 - **Security Architect** with proven ability to design and implement secure environments
@@ -160,10 +160,10 @@ Weekend: 4 hours Saturday only
 ## Interview Positioning
 
 ### Phase 1 Core Pitch
-"I bring a unique combination: zero-breach track record across 30+ organizations plus complete federal credential stack. With CMMC CCP/CCA + AWS Security Specialty + proven operational excellence, I can build assessment-ready cloud infrastructure that passes CMMC audits the first time while maintaining mission-critical availability."
+"I bring a unique combination: zero-breach track record across 30+ clients plus complete federal credential stack. With CMMC CCP/CCA + AWS Security Specialty + proven operational excellence, I can build assessment-ready cloud infrastructure that passes CMMC audits the first time while maintaining mission-critical availability."
 
 ### Key Differentiators
-- **Operational Excellence**: Zero breaches under pressure for 10 years
+- **Operational Excellence**: Zero breaches under pressure consistently
 - **Federal Expertise**: CMMC assessment + AWS security + NIST compliance
 - **Real Experience**: Stabilized environments others couldn't fix
 - **Mission-Critical Mindset**: <2 hour response time, 24/7 availability

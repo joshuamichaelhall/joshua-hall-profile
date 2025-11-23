@@ -2,7 +2,7 @@
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#cloud-security-architect--aws-saa--security--cmmc-ccpcca)
 
-🔒 **Zero-breach track record** across 30+ organizations over 10 years | Building complete federal infrastructure credential stack | Seeking Cloud Security Architect opportunities early 2026
+🔒 **Zero-breach track record** across 30+ clients | Building complete federal infrastructure credential stack | Seeking Cloud Security Architect opportunities early 2026
 
 ## About Me
 
@@ -31,7 +31,7 @@ Cloud Security Architect with proven operational experience and complete federal
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#infrastructure-operations)
 
-- Zero security breaches across 30+ organizations (10 years)
+- Zero security breaches across 30+ clients (2+ years)
 - 100+ endpoints with enterprise-grade security
 - Prevented significant ransomware damages
 - <2 hour incident response time, 24/7
@@ -77,10 +77,10 @@ Production cloud resume demonstrating serverless architecture and security best 
 
 [](https://github.com/joshuamichaelhall/joshua-hall-profile#real-world-security-experience)
 
-**MSP Owner (2015-2025)**
+**MSP Owner (December 2020-July 2023)**
 
 - Called when others failed - stabilized multiple compromised environments
-- 30+ organizations across finance, legal, professional services, manufacturing
+- 30+ clients across finance, legal, professional services, manufacturing
 - Implemented security frameworks achieving zero breaches
 - Managed heterogeneous environments (Linux, Windows, macOS)
 - Built compliant infrastructure from compromised states
