@@ -1,6 +1,6 @@
-## Cloud Security Architect | AWS SAA | Security+ | CMMC CCP | Amateur Extra (KI2W) | Huntsville 2026
+## Cloud Security Architect | AWS SAA | Security+ | CMMC CCP | RP Track | Huntsville 2026
 
-🔒 **Zero-breach track record** across 30+ clients | Building complete federal infrastructure credential stack | Seeking Cloud Security Architect opportunities early 2026
+🔒 **Zero-breach track record** across 30+ clients | Complete federal credential stack | Architect-level federal contractor positioning | Available early 2026
 
 ## About Me
 
@@ -12,14 +12,15 @@ Cloud Security Architect with proven operational experience and complete federal
 - ✅ **CompTIA Security+** (Nov 16, 2025) - DoD 8570 IAT Level II
 - ✅ **Federal Cloud Resume** live at joshuahall.tech
 
-**Completing (Dec 2025 - March 2026):**
+**Completing (Dec 2025 - May 2026):**
 
 - 🎯 **CMMC Certified Professional** (Dec 18, 2025)
+- 🎯 **CMMC Registered Practitioner** (Apr-May 2026 - post-employment)
 - 🎯 **AWS Certified Security - Specialty** (March 2026 - post-employment)
 
 **Future Goals:**
 
-- 📋 **CMMC Certified Assessor** (requires 12 months assessment experience + Tier 3 clearance)
+- 📋 **CMMC Registered Practitioner Advanced** (2029 - after Level 2 implementations)
 
 **Availability:** Early 2026 with complete credential stack
 
@@ -88,7 +89,7 @@ Production cloud resume demonstrating serverless architecture and security best 
 
 ## Current Focus
 
-🎯 Completing federal credential stack (Nov 2025 - Early 2026) 🔍 AWS re:Invent Dec 1-6 (networking and learning) 🎯 CMMC Training Dec 8-13 in Mesa, AZ 💼 Available early 2026 📍 Relocating to Huntsville, AL
+🎯 Complete federal credential stack by Dec 18 🔍 AWS re:Invent Dec 1-6 (networking with defense contractors) 🎯 CMMC CCP Training Dec 8-13 in Mesa, AZ 💼 Pure application focus January 2026 (70+ architect positions) 📍 Remote → Huntsville, AL positioning
 
 ## Connect
 
