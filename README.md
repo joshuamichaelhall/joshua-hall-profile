@@ -22,13 +22,14 @@ Cloud Security Architect with proven operational experience and complete federal
 - 📋 **Advanced Security Certifications** (continued architect career growth)
 - 🎯 **CISSP** (when eligible with 5 years experience)
 
+
 **Availability:** Early 2026 with complete credential stack
 
 ## Core Competencies
 
 ### Infrastructure Operations
 
-- Zero security breaches across 30+ clients
+- Zero security breaches across all fully managed clients
 - 100+ endpoints with enterprise-grade security
 - <2 hour incident response time, 24/7
 - Incident response and remediation
@@ -57,7 +58,7 @@ Cloud Security Architect with proven operational experience and complete federal
 
 ### Development & Automation
 
-- **Languages**: Python (Boto3), Bash/Zsh, YAML, JavaScript
+- **Languages**: Python, Ruby, Bash/Zsh, YAML, JavaScript
 - **Databases**: DynamoDB, PostgreSQL
 - **CI/CD**: GitHub Actions, automated deployments
 - **Version Control**: Git workflows
@@ -66,7 +67,7 @@ Cloud Security Architect with proven operational experience and complete federal
 
 ### 🏛️ Federal Cloud Resume (joshuahall.tech)
 
-**[Live Demo](https://joshuahall.tech/) | [Repository](https://github.com/joshuamichaelhall-tech/federal-cloud-resume)**
+**[Live Demo](https://joshuahall.tech/) | [Repository](https://github.com/joshuamichaelhall/federal-cloud-resume)**
 
 Production cloud resume demonstrating serverless architecture and security best practices:
 
@@ -85,7 +86,12 @@ Production cloud resume demonstrating serverless architecture and security best 
 - Implemented security frameworks achieving zero breaches
 - Managed heterogeneous environments (Linux, Windows, macOS)
 - Built compliant infrastructure from compromised states
-- Vanderbilt University Medical Center: Led 5,000-system deployment (HIPAA)
+
+**Team Lead Contractor (February - June 2015)**
+
+- Vanderbilt University Medical Center: 
+- 5,000-system deployment (HIPAA)
+- 11 Techs managed
 
 ## Current Focus
 
