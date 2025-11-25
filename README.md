@@ -1,10 +1,10 @@
-## Cloud Security Architect | AWS SAA | Security+ | CMMC CCP | Federal Ready | Huntsville 2026
+## Security Engineer | AWS SAA | Security+ | CMMC CCP | Federal Ready | Huntsville 2026
 
-🔒 **Zero-breach track record** across 30+ clients | Complete federal credential stack | Architect-level federal contractor positioning | Available early 2026
+🔒 **2+ years security operations** | Zero-breach track record across 30+ clients | Complete federal credential stack | Available early 2026
 
 ## About Me
 
-Cloud Security Architect with proven operational experience and complete federal credential stack.
+Security Engineer with 2+ years of hands-on security operations experience and complete federal credential stack.
 
 **Current Credentials (Nov 2025):**
 
@@ -12,49 +12,43 @@ Cloud Security Architect with proven operational experience and complete federal
 - ✅ **CompTIA Security+** (Nov 16, 2025) - DoD 8570 IAT Level II
 - ✅ **Federal Cloud Resume** live at joshuahall.tech
 
-**Completing (Dec 2025 - Mar 2026):**
+**Completing (Dec 2025):**
 
 - 🎯 **CMMC Certified Professional** (Dec 18, 2025)
-- 🎯 **AWS Certified Security - Specialty** (March 2026 - post-employment)
 
-**Future Goals:**
+**Post-Employment (2026):**
 
-- 📋 **Advanced Security Certifications** (continued architect career growth)
-- 🎯 **CISSP** (when eligible with 5 years experience)
-
+- 🎯 **AWS Certified Security - Specialty** (Q1 2026 - using employer voucher)
+- 🎯 **CMMC Registered Practitioner** (Q2 2026)
 
 **Availability:** Early 2026 with complete credential stack
 
 ## Core Competencies
 
-### Infrastructure Operations
+### Security Operations (2+ Years)
 
 - Zero security breaches across all fully managed clients
 - 100+ endpoints with enterprise-grade security
-- <2 hour incident response time, 24/7
-- Incident response and remediation
+- <2 hour incident response time
+- Hands-on experience: 11 firewalls, 33 WAPs, 8 servers deployed
 - HIPAA compliance translating to NIST/FedRAMP
-- Network security and firewall management
 
 ### Cloud Infrastructure
 
-**AWS Fundamentals (Hands-on via Cantrill SAA Course + Project):** 
-- Compute: EC2, Lambda 
-- Storage: S3 (static hosting, versioning, lifecycle) 
-- Networking: VPC, CloudFront CDN 
-- Database: DynamoDB 
-- Security: IAM (policies, roles), ACM certificates 
-- API: API Gateway REST APIs 
-**Demonstrated in Production (joshuahall.tech):** 
-- Serverless architecture (S3 + CloudFront + Lambda + API Gateway + DynamoDB) 
-- HTTPS implementation with custom domain 
-- IAM least privilege implementation 
-- Python Lambda functions with Boto3 
-- REST API with CORS configuration 
-**Infrastructure Approach:** 
-- Manual AWS Console and CLI deployment 
-- Security best practices from the start 
-- Documentation-first development
+**AWS Fundamentals (Hands-on via Cantrill SAA Course + Project):**
+- Compute: EC2, Lambda
+- Storage: S3 (static hosting, versioning, lifecycle)
+- Networking: VPC, CloudFront CDN
+- Database: DynamoDB
+- Security: IAM (policies, roles), ACM certificates
+- API: API Gateway REST APIs
+
+**Demonstrated in Production (joshuahall.tech):**
+- Serverless architecture (S3 + CloudFront + Lambda + API Gateway + DynamoDB)
+- HTTPS implementation with custom domain
+- IAM least privilege implementation
+- Python Lambda functions with Boto3
+- REST API with CORS configuration
 
 ### Development & Automation
 
@@ -79,23 +73,27 @@ Production cloud resume demonstrating serverless architecture and security best 
 
 ## Real-World Security Experience
 
-**MSP Owner (December 2020-July 2023)**
+**MSP Owner & Security Operations Lead (December 2020-July 2023)**
 
-- Called when others failed - stabilized multiple compromised environments
+- 2+ years hands-on security operations
 - 30+ clients across finance, legal, professional services, manufacturing
 - Implemented security frameworks achieving zero breaches
 - Managed heterogeneous environments (Linux, Windows, macOS)
-- Built compliant infrastructure from compromised states
+- 95%+ client satisfaction rate
 
 **Team Lead Contractor (February - June 2015)**
 
-- Vanderbilt University Medical Center: 
+- Vanderbilt University Medical Center:
 - 5,000-system deployment (HIPAA)
 - 11 Techs managed
 
 ## Current Focus
 
-🎯 Complete federal credential stack by Dec 18 🔍 AWS re:Invent Dec 1-6 (networking with defense contractors) 🎯 CMMC CCP Training Dec 8-13 in Mesa, AZ 💼 Pure application focus January 2026 (70+ architect positions) 📍 Remote → Huntsville, AL positioning
+🎯 Complete federal credential stack by Dec 18
+🔍 AWS re:Invent Dec 1-6 (networking with defense contractors)
+🎯 CMMC CCP Training Dec 8-13 in Mesa, AZ
+💼 Pure application focus January 2026 (70 applications)
+📍 Remote → Huntsville, AL positioning
 
 ## Connect
 
@@ -105,4 +103,4 @@ Production cloud resume demonstrating serverless architecture and security best 
 
 ---
 
-_Building complete federal security credential stack for Cloud Security Architect roles in defense contracting_
+_Building complete federal security credential stack for Security Engineer II and CMMC Specialist roles in defense contracting_
