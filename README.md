@@ -1,10 +1,10 @@
 ## Security Engineer | AWS SAA | Security+ | CMMC CCP | Federal Ready | Huntsville 2026
 
-🔒 **2+ years security operations** | Zero-breach track record across 30+ clients | Complete federal credential stack | Available early 2026
+🔒 **3+ years security experience** | Zero-breach track record across 30+ clients | Complete federal credential stack | Available early 2026
 
 ## About Me
 
-Security Engineer with 2+ years of hands-on security operations experience and complete federal credential stack.
+Security Engineer with 3+ years of security experience including firewall deployment, HIPAA compliance, and MSP operations.
 
 **Current Credentials (Nov 2025):**
 
@@ -25,7 +25,7 @@ Security Engineer with 2+ years of hands-on security operations experience and c
 
 ## Core Competencies
 
-### Security Operations (2+ Years)
+### Security Operations (3+ Years)
 
 - Zero security breaches across all fully managed clients
 - 100+ endpoints with enterprise-grade security
@@ -75,7 +75,7 @@ Production cloud resume demonstrating serverless architecture and security best 
 
 **MSP Owner & Security Operations Lead (December 2020-July 2023)**
 
-- 2+ years hands-on security operations
+- 3+ years security experience including firewall deployment, HIPAA compliance, and MSP operations
 - 30+ clients across finance, legal, professional services, manufacturing
 - Implemented security frameworks achieving zero breaches
 - Managed heterogeneous environments (Linux, Windows, macOS)
