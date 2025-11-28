@@ -1,10 +1,10 @@
 ## Cloud Security Professional | AWS SAA | Security+ | CMMC CCP | Targeting ISSO Roles | Huntsville 2026
 
-🔒 **3.25 years security experience** | Zero ransomware incidents across all fully managed clients | Complete federal credential stack | Available February 2026
+🔒 **3+ years security experience** | Zero ransomware incidents across all fully managed clients | Complete federal credential stack | Available February 2026
 
 ## About Me
 
-Cloud Security Professional with 3.25 years of hands-on security experience including firewall deployment, HIPAA compliance, and MSP operations.
+Cloud Security Professional with 3+ years of hands-on security experience including firewall deployment, HIPAA compliance, and MSP operations.
 
 **Current Credentials (Nov 2025):**
 
