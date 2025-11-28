@@ -1,6 +1,6 @@
 ## Cloud Security Professional | AWS SAA | Security+ | CMMC CCP | Targeting ISSO Roles | Huntsville 2026
 
-🔒 **3.25 years security experience** | Zero ransomware losses across all fully managed clients | Complete federal credential stack | Available February 2026
+🔒 **3.25 years security experience** | Zero ransomware incidents across all fully managed clients | Complete federal credential stack | Available February 2026
 
 ## About Me
 
@@ -28,7 +28,7 @@ Cloud Security Professional with 3.25 years of hands-on security experience incl
 
 ### Security Operations (3.25 Years)
 
-- Zero ransomware losses across all fully managed clients
+- Zero ransomware incidents across all fully managed clients
 - 100+ endpoints with enterprise-grade security
 - <2 hour incident response time
 - Hands-on experience: 11 firewalls, 33 WAPs, 8 servers deployed
@@ -79,7 +79,7 @@ Production cloud resume demonstrating serverless architecture and security best 
 **MSP Owner & Security Operations Lead (December 2020 - July 2023)**
 
 - Built MSP to $160K annual revenue with 30+ clients
-- Zero ransomware losses across all fully managed clients (100+ endpoints)
+- Zero ransomware incidents across all fully managed clients (100+ endpoints)
 - Clients across finance, legal, professional services, manufacturing
 - Managed heterogeneous environments (Linux, Windows, macOS)
 - 95%+ client satisfaction rate

@@ -163,7 +163,7 @@ Weekend: 4 hours Saturday only
 "I bring a unique combination: zero-breach track record across 30+ clients plus complete federal credential stack. With CMMC CCP/CCA + AWS Security Specialty + proven operational excellence, I can build assessment-ready cloud infrastructure that passes CMMC audits the first time while maintaining mission-critical availability."
 
 ### Key Differentiators
-- **Operational Excellence**: Zero breaches under pressure consistently
+- **Operational Excellence**: Zero ransomware incidents under pressure consistently
 - **Federal Expertise**: CMMC assessment + AWS security + NIST compliance
 - **Real Experience**: Stabilized environments others couldn't fix
 - **Mission-Critical Mindset**: <2 hour response time, 24/7 availability

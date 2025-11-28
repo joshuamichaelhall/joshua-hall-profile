@@ -43,7 +43,7 @@ Leveraging proven MSP ownership and architecture leadership for federal cloud se
 • AWS Security Specialty (Q1 2026)
 
 **Real-World Experience:**
-• Zero security breaches maintaining 30+ production environments
+• Zero ransomware incidents maintaining 30+ production environments
 • Stabilized compromised environments others couldn't fix
 • <2 hour incident response time, 24/7 availability
 • HIPAA compliance translating to NIST/FedRAMP frameworks
@@ -136,7 +136,7 @@ How do you handle CMMC compliance in cloud environments?
 
 #### Zero-Breach Operations Post
 ```
-🛡️ Maintained zero breaches across 30+ clients consistently.
+🛡️ Maintained zero ransomware incidents across 30+ clients consistently.
 
 Real scenario: Client called with "mouse moving by itself" - remote access attack in progress.
 
@@ -242,7 +242,7 @@ Joshua
 ```
 Hi [Name],
 
-Your insights on building security-first engineering teams align with my experience maintaining zero breaches across 30+ clients. The operational excellence required in defense contracting is exactly what I've delivered in critical environments.
+Your insights on building security-first engineering teams align with my experience maintaining zero ransomware incidents across 30+ clients. The operational excellence required in defense contracting is exactly what I've delivered in critical environments.
 
 With my complete federal credential stack launching Feb 2026, I'd value connecting to discuss Cloud Infrastructure Engineer opportunities in Huntsville.
 
