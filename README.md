@@ -1,10 +1,10 @@
-## Security Engineer | AWS SAA | Security+ | CMMC CCP | Federal Ready | Huntsville 2026
+## Cloud Security Professional | AWS SAA | Security+ | CMMC CCP | Targeting ISSO Roles | Huntsville 2026
 
-🔒 **3+ years security experience** | Zero-breach track record across 30+ clients | Complete federal credential stack | Available early 2026
+🔒 **3.25 years security experience** | Zero ransomware losses across all fully managed clients | Complete federal credential stack | Available February 2026
 
 ## About Me
 
-Security Engineer with 3+ years of security experience including firewall deployment, HIPAA compliance, and MSP operations.
+Cloud Security Professional with 3.25 years of hands-on security experience including firewall deployment, HIPAA compliance, and MSP operations.
 
 **Current Credentials (Nov 2025):**
 
@@ -14,20 +14,21 @@ Security Engineer with 3+ years of security experience including firewall deploy
 
 **Completing (Dec 2025):**
 
-- 🎯 **CMMC Certified Professional** (Dec 18, 2025)
+- 🎯 **CMMC Certified Professional** (Dec 27, 2025)
 
 **Post-Employment (2026):**
 
-- 🎯 **AWS Certified Security - Specialty** (Q1 2026 - using employer voucher)
-- 🎯 **CMMC Registered Practitioner** (Q2 2026)
+- 🎯 **CMMC Registered Practitioner** (Jan 2026)
+- 🎯 **AWS Certified Security - Specialty** (Q1 2026)
+- 🎯 **CISSP** (Q4 2026 - 4+ years qualifying experience with Security+ waiver)
 
-**Availability:** Early 2026 with complete credential stack
+**Availability:** February 2026 | Relocating to Huntsville, AL
 
 ## Core Competencies
 
-### Security Operations (3+ Years)
+### Security Operations (3.25 Years)
 
-- Zero security breaches across all fully managed clients
+- Zero ransomware losses across all fully managed clients
 - 100+ endpoints with enterprise-grade security
 - <2 hour incident response time
 - Hands-on experience: 11 firewalls, 33 WAPs, 8 servers deployed
@@ -36,6 +37,7 @@ Security Engineer with 3+ years of security experience including firewall deploy
 ### Cloud Infrastructure
 
 **AWS Fundamentals (Hands-on via Cantrill SAA Course + Project):**
+
 - Compute: EC2, Lambda
 - Storage: S3 (static hosting, versioning, lifecycle)
 - Networking: VPC, CloudFront CDN
@@ -44,6 +46,7 @@ Security Engineer with 3+ years of security experience including firewall deploy
 - API: API Gateway REST APIs
 
 **Demonstrated in Production (joshuahall.tech):**
+
 - Serverless architecture (S3 + CloudFront + Lambda + API Gateway + DynamoDB)
 - HTTPS implementation with custom domain
 - IAM least privilege implementation
@@ -73,27 +76,29 @@ Production cloud resume demonstrating serverless architecture and security best 
 
 ## Real-World Security Experience
 
-**MSP Owner & Security Operations Lead (December 2020-July 2023)**
+**MSP Owner & Security Operations Lead (December 2020 - July 2023)**
 
-- 3+ years security experience including firewall deployment, HIPAA compliance, and MSP operations
-- 30+ clients across finance, legal, professional services, manufacturing
-- Implemented security frameworks achieving zero breaches
+- Built MSP to $160K annual revenue with 30+ clients
+- Zero ransomware losses across all fully managed clients (100+ endpoints)
+- Clients across finance, legal, professional services, manufacturing
 - Managed heterogeneous environments (Linux, Windows, macOS)
 - 95%+ client satisfaction rate
 
-**Team Lead Contractor (February - June 2015)**
+**IT Technician - BMA Inc. (October 2020 - May 2021)**
 
-- Vanderbilt University Medical Center:
-- 5,000-system deployment (HIPAA)
-- 11 Techs managed
+- HIPAA-compliant medical infrastructure
+- WatchGuard firewall configuration
+- Active Directory and Microsoft 365 administration
+
+**Team Lead Contractor - Vanderbilt University Hospital (February - June 2015)**
+
+- Led 11-person team through 5,000+ system deployment
+- Zero security incidents in HIPAA environment
+- Stakeholder management across clinical departments
 
 ## Current Focus
 
-🎯 Complete federal credential stack by Dec 18
-🔍 AWS re:Invent Dec 1-6 (networking with defense contractors)
-🎯 CMMC CCP Training Dec 8-13 in Mesa, AZ
-💼 Pure application focus January 2026 (70 applications)
-📍 Remote → Huntsville, AL positioning
+🎯 CMMC CCP Training Dec 8-13 in Mesa, AZ 🔍 AWS re:Invent Dec 1-6 (networking with defense contractors) 💼 Application launch December 29, 2025 📍 Relocating to Huntsville, AL (February 2026)
 
 ## Connect
 
@@ -103,4 +108,4 @@ Production cloud resume demonstrating serverless architecture and security best 
 
 ---
 
-_Building complete federal security credential stack for Security Engineer II and CMMC Specialist roles in defense contracting_
+_Targeting ISSO and Cloud Security roles with Huntsville defense contractors_
