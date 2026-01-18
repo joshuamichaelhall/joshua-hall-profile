@@ -1,6 +1,6 @@
 # Joshua Michael Hall
 
-## Cloud Security Professional
+## Cloud Security & Compliance Professional
 
 AWS Solutions Architect Associate | Security+ | CMMC RP
 3+ years MSP security experience | 2+ years zero ransomware for managed clients
@@ -11,7 +11,7 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 
 - 🎯 Pursuing CISSP Associate (~Mar 2026)
 - 📚 Studying AWS Security Specialty (~Apr 2026)
-- 💼 Open to Cloud Security Engineer opportunities in Dallas
+- 💼 Open to Senior Security Analyst / GRC opportunities in Dallas
 - 📍 Currently in AR, relocating for the right role
 
 ### Credentials
@@ -49,4 +49,4 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 
 ---
 
-*Seeking Cloud Security Engineer roles in Dallas. Open to financial services, healthcare, defense, energy, or enterprise technology.*
+*Seeking Senior Security Analyst or GRC roles in Dallas. Open to financial services, healthcare, or enterprise technology.*
