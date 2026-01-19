@@ -3,7 +3,7 @@
 ## Cloud Security & Compliance Professional
 
 AWS Solutions Architect Associate | Security+ | CMMC RP
-3+ years MSP security experience | 2+ years zero ransomware for managed clients
+3+ years client-facing security advisory | 2+ years zero ransomware for managed clients
 
 ---
 
@@ -11,7 +11,7 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 
 - 🎯 Pursuing CISSP Associate (~Mar 2026)
 - 📚 Studying AWS Security Specialty (~Apr 2026)
-- 💼 Open to Senior Security Analyst / GRC opportunities in Dallas
+- 💼 Open to Security Consultant / GRC Analyst opportunities in Dallas
 - 📍 Currently in AR, relocating for the right role
 
 ### Credentials
@@ -35,11 +35,11 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 
 ### Background
 
-3+ years MSP security experience (BMA Inc. + TimothyTek, Oct 2020 - Jul 2023):
+3+ years client-facing security advisory (BMA Inc. + TimothyTek, Oct 2020 - Jul 2023):
+- Delivered security assessments to 30+ clients across healthcare, manufacturing, finance, legal
 - Zero ransomware incidents for fully managed clients over 2+ years
-- 30+ clients, 100+ endpoints
-- 11 enterprise firewall deployments
-- Compliance experience: HIPAA, PCI-DSS
+- 11 enterprise firewall deployments with network segmentation
+- Framework experience: HIPAA, PCI-DSS adjacent, NIST foundations
 
 <!-- BLOG-POST-LIST:START -->
 ## Latest Blog Posts
@@ -56,4 +56,4 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 
 ---
 
-*Seeking Senior Security Analyst or GRC roles in Dallas. Open to financial services, healthcare, or enterprise technology.*
+*Seeking Security Consultant or GRC Analyst roles in Dallas. Open to consulting firms, financial services, healthcare, or enterprise technology.*
