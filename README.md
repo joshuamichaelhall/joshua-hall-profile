@@ -41,6 +41,13 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 - 11 enterprise firewall deployments
 - Compliance experience: HIPAA, PCI-DSS
 
+<!-- BLOG-POST-LIST:START -->
+## Latest Blog Posts
+
+*Posts will appear here automatically*
+
+<!-- BLOG-POST-LIST:END -->
+
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshuamichaelhall-blue)](https://linkedin.com/in/joshuamichaelhall)
