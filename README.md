@@ -1,9 +1,9 @@
 # Joshua Michael Hall
 
-## Cloud Security & GRC Professional
+## Cloud Security & Compliance Professional
 
-AWS SAA | Security+ (DoD 8570) | CMMC RP | CCP Exam Passed
-3+ years client-facing security advisory | Zero-breach track record across 30+ clients
+AWS Solutions Architect Associate | Security+ | CMMC RP
+3+ years MSP security experience | 2+ years zero ransomware for managed clients
 
 ---
 
@@ -11,9 +11,8 @@ AWS SAA | Security+ (DoD 8570) | CMMC RP | CCP Exam Passed
 
 - 🎯 Pursuing CISSP Associate (~Mar 2026)
 - 📚 Studying AWS Security Specialty (~Apr 2026)
-- 💼 Targeting cleared GRC / Security Analyst roles
-- 📍 Open to Dallas, TX or Huntsville, AL (relocating Q1 2026)
-- 🔐 Clearance eligible, clean background
+- 💼 Open to Senior Security Analyst / GRC opportunities in Dallas
+- 📍 Currently in AR, relocating for the right role
 
 ### Credentials
 
@@ -36,11 +35,11 @@ AWS SAA | Security+ (DoD 8570) | CMMC RP | CCP Exam Passed
 
 ### Background
 
-3+ years client-facing security advisory (BMA Inc. + TimothyTek, Oct 2020 - Jul 2023):
-- Delivered security assessments to 30+ clients across healthcare, manufacturing, finance, legal
+3+ years MSP security experience (BMA Inc. + TimothyTek, Oct 2020 - Jul 2023):
 - Zero ransomware incidents for fully managed clients over 2+ years
-- 11 enterprise firewall deployments with network segmentation
-- Framework experience: HIPAA, PCI-DSS adjacent, NIST foundations
+- 30+ clients, 100+ endpoints
+- 11 enterprise firewall deployments
+- Compliance experience: HIPAA, PCI-DSS
 
 <!-- BLOG-POST-LIST:START -->
 ## Latest Blog Posts
@@ -57,4 +56,4 @@ AWS SAA | Security+ (DoD 8570) | CMMC RP | CCP Exam Passed
 
 ---
 
-*Targeting cleared GRC Analyst or Security Analyst roles in Huntsville or Dallas. Open to defense contractors, consulting firms, financial services, healthcare, or enterprise technology. Clearance sponsorship welcome.*
+*Seeking Senior Security Analyst or GRC roles in Dallas. Open to financial services, healthcare, or enterprise technology.*
