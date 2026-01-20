@@ -1,9 +1,9 @@
 # Joshua Michael Hall
 
-## Cloud Security & Compliance Professional
+## Cloud Security & GRC Professional
 
-AWS Solutions Architect Associate | Security+ | CMMC RP
-3+ years client-facing security advisory | 2+ years zero ransomware for managed clients
+AWS SAA | Security+ (DoD 8570) | CMMC RP | CCP Exam Passed
+3+ years client-facing security advisory | Zero-breach track record across 30+ clients
 
 ---
 
@@ -11,8 +11,9 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 
 - 🎯 Pursuing CISSP Associate (~Mar 2026)
 - 📚 Studying AWS Security Specialty (~Apr 2026)
-- 💼 Open to Security Consultant / GRC Analyst opportunities in Dallas
-- 📍 Currently in AR, relocating for the right role
+- 💼 Targeting cleared GRC / Security Analyst roles
+- 📍 Open to Dallas, TX or Huntsville, AL (relocating Q1 2026)
+- 🔐 Clearance eligible, clean background
 
 ### Credentials
 
@@ -56,4 +57,4 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 
 ---
 
-*Seeking Security Consultant or GRC Analyst roles in Dallas. Open to consulting firms, financial services, healthcare, or enterprise technology.*
+*Targeting cleared GRC Analyst or Security Analyst roles in Huntsville or Dallas. Open to defense contractors, consulting firms, financial services, healthcare, or enterprise technology. Clearance sponsorship welcome.*
