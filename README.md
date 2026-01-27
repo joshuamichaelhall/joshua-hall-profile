@@ -3,7 +3,7 @@
 ## Cloud Security & Compliance Professional
 
 AWS Solutions Architect Associate | Security+ | CMMC RP
-3+ years MSP security experience | 2+ years zero ransomware for managed clients
+3+ years MSP security experience | 2+ years zero ransomware breaches for managed clients
 
 ---
 
@@ -36,7 +36,7 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 ### Background
 
 3+ years MSP security experience (BMA Inc. + TimothyTek, Oct 2020 - Jul 2023):
-- Zero ransomware incidents for fully managed clients over 2+ years
+- Zero ransomware breaches for all fully managed clients over 2+ years
 - 30+ clients, 100+ endpoints
 - 11 enterprise firewall deployments
 - Regulated industry experience: healthcare, finance, legal

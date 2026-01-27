@@ -8,12 +8,12 @@ This roadmap outlines the strategic progression to Cloud Security Architect role
 Position as "Cloud Security Architect with CMMC Expertise" - applying proven architecture experience, MSP ownership, and rare CMMC RP/CCP (pending Tier 3) credentials to architect compliant cloud security solutions for defense contractors.
 
 ### Success Formula
-**Zero-Breach Track Record + Architecture Leadership + CMMC RP/CCP (pending Tier 3) + AWS Security Expertise + Business Ownership = Architect-Level Positioning**
+**Zero Ransomware Breaches Track Record + Architecture Leadership + CMMC RP/CCP (pending Tier 3) + AWS Security Expertise + Business Ownership = Architect-Level Positioning**
 
 ## Current Position & Target
 
 ### What You Are
-- **Cloud Security Architect** with zero-breach track record across 30+ clients (2+ years)
+- **Cloud Security Architect** with zero ransomware breaches track record across 30+ clients (2+ years)
 - **MSP Owner** with P&L responsibility and architecture leadership experience
 - **CMMC Credentials**: RP + CCP exam passed (pending Tier 3 clearance)
 - **Security Architect** with proven ability to design and implement secure environments
@@ -160,7 +160,7 @@ Weekend: 4 hours Saturday only
 ## Interview Positioning
 
 ### Phase 1 Core Pitch
-"I bring a unique combination: zero-breach track record across 30+ clients plus complete federal credential stack. With CMMC RP/CCP (pending Tier 3) + AWS Security Specialty + proven operational excellence, I can build assessment-ready cloud infrastructure that passes CMMC audits the first time while maintaining mission-critical availability."
+"I bring a unique combination: zero ransomware breaches track record across 30+ clients plus complete federal credential stack. With CMMC RP/CCP (pending Tier 3) + AWS Security Specialty + proven operational excellence, I can build assessment-ready cloud infrastructure that passes CMMC audits the first time while maintaining mission-critical availability."
 
 ### Key Differentiators
 - **Operational Excellence**: Zero ransomware incidents under pressure consistently
@@ -223,6 +223,6 @@ Weekend: 4 hours Saturday only
 
 ---
 
-**Remember**: You're building the rare combination of "Zero-Breach Operational Experience + Complete Federal Credential Stack." Defense contractors desperately need this combination. Your positioning is premium, not entry-level.
+**Remember**: You're building the rare combination of "Zero Ransomware Breaches Operational Experience + Complete Federal Credential Stack." Defense contractors desperately need this combination. Your positioning is premium, not entry-level.
 
 **Applications launch early 2026. Complete stack = Premium offers.**

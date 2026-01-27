@@ -27,7 +27,7 @@ Cloud Security Architect | AWS SAA | Security+ | CMMC RP/CCP (pending Tier 3) | 
 ### ✅ About Section Structure
 
 ```
-🔒 Cloud Security Architect with zero ransomware incidents for fully managed clients across 30+ clients.
+🔒 Cloud Security Architect with zero ransomware breaches for all fully managed clients across 30+ clients.
 
 Leveraging proven MSP ownership and architecture leadership for federal cloud security architecture.
 
@@ -43,7 +43,7 @@ Leveraging proven MSP ownership and architecture leadership for federal cloud se
 • CMMC CCA - deferred (contingency if no offer by May 1)
 
 **Real-World Experience:**
-• Zero ransomware incidents maintaining 30+ production environments
+• Zero ransomware breaches maintaining 30+ production environments
 • Stabilized compromised environments others couldn't fix
 • <2 hour incident response time, 24/7 availability
 • HIPAA environment experience (BMA/Vanderbilt) translating to NIST/FedRAMP frameworks
@@ -136,7 +136,7 @@ How do you handle CMMC compliance in cloud environments?
 
 #### Zero-Breach Operations Post
 ```
-🛡️ Maintained zero ransomware incidents across 30+ clients consistently.
+🛡️ Maintained zero ransomware breaches across 30+ clients consistently.
 
 Real scenario: Client called with "mouse moving by itself" - remote access attack in progress.
 
@@ -233,7 +233,7 @@ Hi [Name],
 
 Your experience with [federal cloud project] resonates with my current focus on CMMC-compliant AWS architectures. The challenge of mapping NIST 800-53 controls to cloud services is exactly what I'm solving in my Federal Security Dashboard.
 
-With my zero-breach track record and complete federal credential stack (CMMC RP/CCP (pending Tier 3) + AWS Security), I'd value connecting with someone building similar solutions.
+With my zero ransomware breaches track record and complete federal credential stack (CMMC RP/CCP (pending Tier 3) + AWS Security), I'd value connecting with someone building similar solutions.
 
 Best regards,
 Joshua
@@ -243,7 +243,7 @@ Joshua
 ```
 Hi [Name],
 
-Your insights on building security-first engineering teams align with my experience maintaining zero ransomware incidents across 30+ clients. The operational excellence required in defense contracting is exactly what I've delivered in critical environments.
+Your insights on building security-first engineering teams align with my experience maintaining zero ransomware breaches across 30+ clients. The operational excellence required in defense contracting is exactly what I've delivered in critical environments.
 
 With my complete federal credential stack launching Feb 2026, I'd value connecting to discuss Cloud Security Engineer opportunities in Dallas or San Antonio.
 
@@ -298,7 +298,7 @@ Joshua
 
 ## Your Competitive Advantages
 
-1. **Zero-Breach Track Record**: Consistent operational excellence under pressure
+1. **Zero Ransomware Breaches Track Record**: Consistent operational excellence under pressure
 2. **Complete Federal Stack**: CMMC RP/CCP (pending Tier 3) + AWS Security + NIST expertise
 3. **Real Experience**: Stabilized compromised environments others couldn't fix
 4. **Mission-Critical Operations**: <2 hour response time, 24/7 availability
@@ -308,4 +308,4 @@ Position these as strengths that make you ideal for mid-level roles.
 
 ---
 
-**Remember**: You're not applying early and desperate - you're launching with complete credentials in February. Your zero-breach track record plus complete federal stack makes you premium positioning. Own it.
+**Remember**: You're not applying early and desperate - you're launching with complete credentials in February. Your zero ransomware breaches track record plus complete federal stack makes you premium positioning. Own it.
