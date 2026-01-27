@@ -9,9 +9,9 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 
 ### Current Focus
 
-- 🎯 Pursuing CISSP Associate (~Mar 2026)
-- 📚 Studying AWS Security Specialty (~Apr 2026)
-- 💼 Open to Senior Security Analyst / GRC opportunities in Dallas
+- 🎯 Pursuing CISSP Associate (~Mar 21-28, mastery-based)
+- 📚 Studying AWS Security Specialty (~Apr 19-25, mastery-based)
+- 💼 Open to GRC Analyst / Security Compliance Analyst opportunities in Dallas or San Antonio
 - 📍 Currently in AR, relocating for the right role
 
 ### Credentials
@@ -23,8 +23,8 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 - ✅ CMMC CCP Exam Passed (Jan 2026) - certification pending Tier 3 clearance
 
 **In Progress:**
-- 🎯 CISSP Associate (~Mar 2026)
-- 🎯 AWS Security Specialty (~Apr 2026)
+- 🎯 CISSP Associate (~Mar 21-28, mastery-based)
+- 🎯 AWS Security Specialty (~Apr 19-25, mastery-based)
 
 ### Featured Project
 
@@ -39,7 +39,7 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 - Zero ransomware incidents for fully managed clients over 2+ years
 - 30+ clients, 100+ endpoints
 - 11 enterprise firewall deployments
-- Compliance experience: HIPAA, PCI-DSS
+- Regulated industry experience: healthcare, finance, legal
 
 <!-- BLOG-POST-LIST:START -->
 ## Latest Blog Posts
@@ -56,4 +56,4 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 
 ---
 
-*Seeking Senior Security Analyst or GRC roles in Dallas. Open to financial services, healthcare, or enterprise technology.*
+*Seeking GRC Analyst, Security Compliance Analyst, or Compliance Lead roles in Dallas or San Antonio. Open to financial services, healthcare, or enterprise technology.*

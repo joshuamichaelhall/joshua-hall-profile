@@ -5,17 +5,17 @@
 This roadmap outlines the strategic progression to Cloud Security Architect roles in federal defense contracting, leveraging zero-breach operational experience, architecture leadership, and complete credential stack for architect-level positioning.
 
 ### Master Strategy
-Position as "Cloud Security Architect with CMMC Expertise" - applying proven architecture experience, MSP ownership, and rare CMMC CCP/CCA credentials to architect compliant cloud security solutions for defense contractors.
+Position as "Cloud Security Architect with CMMC Expertise" - applying proven architecture experience, MSP ownership, and rare CMMC RP/CCP (pending Tier 3) credentials to architect compliant cloud security solutions for defense contractors.
 
 ### Success Formula
-**Zero-Breach Track Record + Architecture Leadership + CMMC CCP/CCA + AWS Security Expertise + Business Ownership = Architect-Level Positioning**
+**Zero-Breach Track Record + Architecture Leadership + CMMC RP/CCP (pending Tier 3) + AWS Security Expertise + Business Ownership = Architect-Level Positioning**
 
 ## Current Position & Target
 
 ### What You Are
 - **Cloud Security Architect** with zero-breach track record across 30+ clients (2+ years)
 - **MSP Owner** with P&L responsibility and architecture leadership experience
-- **CMMC Expert** with CCP/CCA certifications (one of ~50 in Alabama)
+- **CMMC Credentials**: RP + CCP exam passed (pending Tier 3 clearance)
 - **Security Architect** with proven ability to design and implement secure environments
 - **Business Leader** with executive stakeholder management and crisis leadership experience
 
@@ -39,7 +39,7 @@ Position as "Cloud Security Architect with CMMC Expertise" - applying proven arc
 **Objective**: Build complete federal credential stack before job applications
 
 - **AWS Certifications**: SAA (Nov 8) + Security Specialty (March 2026)
-- **CMMC Certifications**: CCP (Dec 18) + CCA (Dec 27) - Rare dual certification
+- **CMMC Credentials**: RP (Dec 2025) + CCP exam passed (Jan 16, 2026) - pending Tier 3 clearance
 - **Federal Training**: FEMA ICS/NIMS + FAC-COR Level I + DAU ACQ 101 (Jan 2026)
 - **Portfolio Projects**: Federal Cloud Resume + Federal Security Dashboard with NIST 800-53 mappings
 - **Success Criteria**: Complete credential stack, assessment-ready portfolio, clearance processing
@@ -160,7 +160,7 @@ Weekend: 4 hours Saturday only
 ## Interview Positioning
 
 ### Phase 1 Core Pitch
-"I bring a unique combination: zero-breach track record across 30+ clients plus complete federal credential stack. With CMMC CCP/CCA + AWS Security Specialty + proven operational excellence, I can build assessment-ready cloud infrastructure that passes CMMC audits the first time while maintaining mission-critical availability."
+"I bring a unique combination: zero-breach track record across 30+ clients plus complete federal credential stack. With CMMC RP/CCP (pending Tier 3) + AWS Security Specialty + proven operational excellence, I can build assessment-ready cloud infrastructure that passes CMMC audits the first time while maintaining mission-critical availability."
 
 ### Key Differentiators
 - **Operational Excellence**: Zero ransomware incidents under pressure consistently

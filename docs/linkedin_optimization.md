@@ -6,7 +6,7 @@ This guide provides a comprehensive strategy for optimizing your LinkedIn profil
 
 ## Current State → Target State
 
-- **Now**: Complete federal credential stack (CMMC CCP/CCA + AWS Security + Architecture leadership)
+- **Now**: CMMC RP + CCP (exam passed, pending Tier 3) + AWS SAA + Security+
 - **Early 2026**: Applications launch with architect-level positioning
 - **Outcome**: Multiple architect-level offers from defense contractors with competitive compensation
 
@@ -16,12 +16,12 @@ This guide provides a comprehensive strategy for optimizing your LinkedIn profil
 
 **Current Headline (Nov 2025 - Early 2026)**:
 ```
-Cloud Security Architect | AWS SAA | Security+ | CMMC CCP/CCA | Zero-Breach MSP Founder | Federal Compliance Expert
+Cloud Security Architect | AWS SAA | Security+ | CMMC RP/CCP (pending Tier 3) | Zero-Breach MSP Founder | Federal Compliance Expert
 ```
 
 **Post-Employment Headline (Mid 2026+)**:
 ```
-Cloud Security Architect | AWS SAA | Security+ | CMMC CCP/CCA | Federal Compliance | Defense Contractor
+Cloud Security Architect | AWS SAA | Security+ | CMMC RP/CCP (pending Tier 3) | Federal Compliance | Defense Contractor
 ```
 
 ### ✅ About Section Structure
@@ -36,17 +36,17 @@ Leveraging proven MSP ownership and architecture leadership for federal cloud se
 • CompTIA Security+ (Nov 16, 2025) - DoD 8570 IAT Level II
 • Federal Cloud Resume live at joshuahall.tech
 
-**Completing (Dec 2025 - Early 2026):**
-• CMMC Certified Professional (Dec 18, 2025)
-• CMMC Certified Assessor (Dec 27, 2025) - Rare dual CCP + CCA (one of ~50 in Alabama)
-• FEMA ICS/NIMS + FAC-COR Level I + DAU ACQ 101 (Jan 2026)
-• AWS Security Specialty (Q1 2026)
+**In Progress:**
+• CMMC CCP Exam Passed (Jan 16, 2026) - certification pending Tier 3 clearance
+• CISSP Associate (~Mar 2026)
+• AWS Security Specialty (~Apr 2026)
+• CMMC CCA - deferred (contingency if no offer by May 1)
 
 **Real-World Experience:**
 • Zero ransomware incidents maintaining 30+ production environments
 • Stabilized compromised environments others couldn't fix
 • <2 hour incident response time, 24/7 availability
-• HIPAA compliance translating to NIST/FedRAMP frameworks
+• HIPAA environment experience (BMA/Vanderbilt) translating to NIST/FedRAMP frameworks
 
 **Technical Focus:**
 ✅ AWS Security (CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS)
@@ -93,7 +93,7 @@ Cloud Infrastructure Engineer
 Independent | Building Federal Credential Stack
 November 2025 - Present
 
-• Building complete federal credential stack: CMMC CCP/CCA + AWS Security Specialty
+• Building complete federal credential stack: CMMC RP/CCP (pending Tier 3) + AWS Security Specialty
 • Developing Federal Cloud Resume with NIST 800-53 control mappings
 • Implementing AWS security services: CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS
 • Creating Federal Security Dashboard with Terraform Infrastructure as Code
@@ -232,7 +232,7 @@ Hi [Name],
 
 Your experience with [federal cloud project] resonates with my current focus on CMMC-compliant AWS architectures. The challenge of mapping NIST 800-53 controls to cloud services is exactly what I'm solving in my Federal Security Dashboard.
 
-With my zero-breach track record and complete federal credential stack (CMMC CCP/CCA + AWS Security), I'd value connecting with someone building similar solutions.
+With my zero-breach track record and complete federal credential stack (CMMC RP/CCP (pending Tier 3) + AWS Security), I'd value connecting with someone building similar solutions.
 
 Best regards,
 Joshua
@@ -298,7 +298,7 @@ Joshua
 ## Your Competitive Advantages
 
 1. **Zero-Breach Track Record**: Consistent operational excellence under pressure
-2. **Complete Federal Stack**: CMMC CCP/CCA + AWS Security + NIST expertise
+2. **Complete Federal Stack**: CMMC RP/CCP (pending Tier 3) + AWS Security + NIST expertise
 3. **Real Experience**: Stabilized compromised environments others couldn't fix
 4. **Mission-Critical Operations**: <2 hour response time, 24/7 availability
 5. **Assessment-Ready**: Build cloud infrastructure that passes CMMC audits
