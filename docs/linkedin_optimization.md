@@ -27,7 +27,7 @@ Cloud Security Architect | AWS SAA | Security+ | CMMC RP/CCP (pending Tier 3) | 
 ### ✅ About Section Structure
 
 ```
-🔒 Cloud Security Architect with zero-breach track record across 30+ clients.
+🔒 Cloud Security Architect with zero ransomware incidents for fully managed clients across 30+ clients.
 
 Leveraging proven MSP ownership and architecture leadership for federal cloud security architecture.
 
@@ -55,9 +55,9 @@ Leveraging proven MSP ownership and architecture leadership for federal cloud se
 ✅ Operational security and incident response
 ✅ Python automation and security tooling
 
-Applications launch early 2026 with complete credential stack. Relocating to Huntsville, AL for defense contractor ecosystem.
+Applications launch early 2026 with complete credential stack. Relocating to Dallas or San Antonio, TX.
 
-#CloudInfrastructure #AWS #CMMC #FederalCompliance #DefenseContracting #Huntsville
+#CloudInfrastructure #AWS #CMMC #FederalCompliance #DefenseContracting #Dallas #SanAntonio
 ```
 
 ### ✅ Featured Section (Priority Order)
@@ -97,7 +97,7 @@ November 2025 - Present
 • Developing Federal Cloud Resume with NIST 800-53 control mappings
 • Implementing AWS security services: CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS
 • Creating Federal Security Dashboard with Terraform Infrastructure as Code
-• Preparing for Cloud Infrastructure Engineer roles with defense contractors in Huntsville, AL
+• Preparing for Cloud Security Engineer roles in Dallas or San Antonio, TX
 ```
 
 ## Content Strategy
@@ -171,7 +171,8 @@ This operational experience translates directly to federal requirements.
 - #CloudSecurity
 - #Terraform
 - #SecurityOperations
-- #Huntsville
+- #Dallas
+- #SanAntonio
 - #ZeroBreach
 - #IncidentResponse
 
@@ -244,7 +245,7 @@ Hi [Name],
 
 Your insights on building security-first engineering teams align with my experience maintaining zero ransomware incidents across 30+ clients. The operational excellence required in defense contracting is exactly what I've delivered in critical environments.
 
-With my complete federal credential stack launching Feb 2026, I'd value connecting to discuss Cloud Infrastructure Engineer opportunities in Huntsville.
+With my complete federal credential stack launching Feb 2026, I'd value connecting to discuss Cloud Security Engineer opportunities in Dallas or San Antonio.
 
 Best regards,
 Joshua
@@ -260,7 +261,7 @@ Joshua
 
 ### Dec 2025 Goals
 - [ ] 300+ defense contractor connections
-- [ ] 100+ Huntsville area connections
+- [ ] 100+ Dallas/San Antonio area connections
 - [ ] 2 posts showcasing CMMC expertise
 - [ ] 5+ conversations from AWS re:Invent
 - [ ] Network building (NO applications yet)
@@ -277,7 +278,7 @@ Joshua
 - [ ] Multiple interviews scheduled
 - [ ] Recognized as federal cloud infrastructure expert
 - [ ] Job offer accepted by April 2026
-- [ ] Huntsville relocation planned
+- [ ] Dallas or San Antonio relocation planned
 
 ## Key Positioning Points
 
