@@ -31,7 +31,7 @@ async function fetchBlogPosts() {
       // Very basic HTML parsing - you may need a proper parser like cheerio
       // This is just an example that would need to be customized to your site
       const posts = [];
-      const regex = /<a href="(\/blog\/\d{4}\/\d{2}\/\d{2}\/[^"]+\/">[^<]+<\/a>/g;
+      const regex = /<a href="(\/blog\/\d{4}\/\d{2}\/\d{2}\/[^"]+\/)">[^<]+<\/a>/g;
       let match;
       
       while ((match = regex.exec(data)) !== null && posts.length < 5) {
