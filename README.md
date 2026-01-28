@@ -44,7 +44,7 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 <!-- BLOG-POST-LIST:START -->
 ## Latest Blog Posts
 
-*Posts will appear here automatically*
+- [Infrastructure as Code Best Practices for Financial Services](https://joshuamichaelhall.com/blog/2025/05/05/infrastructure-as-code-best-practices/) (2025-05-05)
 
 <!-- BLOG-POST-LIST:END -->
 
