@@ -3,7 +3,7 @@
 ## CMMC Registered Practitioner | Security Professional
 
 CMMC RP | CCP (Exam Passed) | Security+ | AWS SAA
-3+ years MSP security experience | Zero ransomware breaches for managed clients
+Seeking CMMC Consultant roles at C3PAOs | Zero ransomware breaches across 100+ managed endpoints
 
 ---
 
@@ -12,6 +12,8 @@ CMMC RP | CCP (Exam Passed) | Security+ | AWS SAA
 **CMMC:**
 - ✅ CMMC Registered Practitioner (Dec 2025)
 - ✅ CMMC CCP Exam Passed (Jan 2026) - certification pending Tier 3 background
+- 🎯 CMMC CCA Exam - Target Feb 2026
+- 🎯 CISSP Associate - Target March 2026
 
 **Security:**
 - ✅ CompTIA Security+ CE (Nov 2025) - DoD 8570 IAT Level II
@@ -36,12 +38,16 @@ CMMC RP | CCP (Exam Passed) | Security+ | AWS SAA
 - 11 enterprise firewall deployments (WatchGuard, Fortinet)
 - Risk assessments, policy development, compliance documentation
 - HIPAA environment experience (BMA Inc., Vanderbilt Hospital)
+- U.S. Citizen, clearance-ready (clean background)
 
 ### Core Competencies
 
 - **CMMC/Compliance:** NIST 800-171, gap assessments, SSP development, POA&M management
 - **Security Operations:** Risk assessment, security controls, incident response, documentation
 - **Technical:** AWS, Azure AD, network security, firewalls, endpoint protection
+
+### Target Employers
+C3PAOs and CMMC consulting practices. Clearance sponsorship preferred.
 
 <!-- BLOG-POST-LIST:START -->
 ## Latest Blog Posts
@@ -58,4 +64,4 @@ CMMC RP | CCP (Exam Passed) | Security+ | AWS SAA
 
 ---
 
-*CMMC Registered Practitioner helping organizations in regulated industries achieve compliance.*
+*Seeking CMMC Consultant or Assessment Support roles at C3PAOs. Remote | San Antonio | Dallas. Available immediately.*
