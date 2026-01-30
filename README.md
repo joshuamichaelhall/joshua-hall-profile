@@ -13,7 +13,7 @@ Seeking CMMC Consultant roles at C3PAOs | Zero ransomware breaches across 100+ m
 - ✅ CMMC Registered Practitioner (Dec 2025)
 - ✅ CMMC CCP Exam Passed (Jan 2026) - certification pending Tier 3 background
 - 🎯 CMMC CCA Exam - Target Feb 2026
-- 🎯 CISSP Associate - Target March 2026
+- 🎯 CISSP Associate - Target April 2026
 
 **Security:**
 - ✅ CompTIA Security+ CE (Nov 2025) - DoD 8570 IAT Level II
