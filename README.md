@@ -1,45 +1,47 @@
 # Joshua Michael Hall
 
-## Cloud Security & Compliance Professional
+## CMMC Registered Practitioner | Security Professional
 
-AWS Solutions Architect Associate | Security+ | CMMC RP
-3+ years MSP security experience | 2+ years zero ransomware breaches for managed clients
+CMMC RP | CCP (Exam Passed) | Security+ | AWS SAA
+3+ years MSP security experience | Zero ransomware breaches for managed clients
 
 ---
 
-### Current Focus
-
-- 🎯 Pursuing CISSP Associate (~Mar 21-28, mastery-based)
-- 📚 Studying AWS Security Specialty (~Apr 19-25, mastery-based)
-- 💼 Open to GRC Analyst / Security Compliance Analyst opportunities in Dallas or San Antonio
-- 📍 Currently in AR, relocating for the right role
-
 ### Credentials
 
-**Current:**
-- ✅ AWS Solutions Architect Associate (Nov 2025)
-- ✅ CompTIA Security+ CE (Nov 2025) - DoD 8570 IAT II
+**CMMC:**
 - ✅ CMMC Registered Practitioner (Dec 2025)
-- ✅ CMMC CCP Exam Passed (Jan 2026) - certification pending Tier 3 clearance
+- ✅ CMMC CCP Exam Passed (Jan 2026) - certification pending Tier 3 background
 
-**In Progress:**
-- 🎯 CISSP Associate (~Mar 21-28, mastery-based)
-- 🎯 AWS Security Specialty (~Apr 19-25, mastery-based)
+**Security:**
+- ✅ CompTIA Security+ CE (Nov 2025) - DoD 8570 IAT Level II
+- ✅ AWS Solutions Architect Associate (Nov 2025)
+
+**Other:**
+- ✅ CompTIA Project+
+- ✅ Google Project Management Certificate
 
 ### Featured Project
 
-**[Federal Cloud Resume](https://joshuahall.tech)** - Serverless AWS architecture demonstrating security best practices:
+**[Federal Cloud Resume](https://joshuahall.tech)** - Serverless AWS architecture demonstrating security controls:
 - S3 + CloudFront + Lambda + DynamoDB + API Gateway
-- WAF protection, CloudTrail logging, IAM least privilege
-- NIST 800-53 control mapping documented
+- IAM least privilege, encryption at rest and in transit
+- NIST 800-53 control alignment documented
 
-### Background
+### Professional Background
 
-3+ years MSP security experience (BMA Inc. + TimothyTek, Oct 2020 - Jul 2023):
-- Zero ransomware breaches for all fully managed clients over 2+ years
-- 30+ clients, 100+ endpoints
-- 11 enterprise firewall deployments
-- Regulated industry experience: healthcare, finance, legal
+3+ years security-focused MSP experience (TimothyTek, Dec 2020 - Jul 2023):
+- Built security programs for 30+ clients in manufacturing, finance, and legal sectors
+- Zero ransomware breaches across 100+ endpoints for fully managed clients
+- 11 enterprise firewall deployments (WatchGuard, Fortinet)
+- Risk assessments, policy development, compliance documentation
+- HIPAA environment experience (BMA Inc., Vanderbilt Hospital)
+
+### Core Competencies
+
+- **CMMC/Compliance:** NIST 800-171, gap assessments, SSP development, POA&M management
+- **Security Operations:** Risk assessment, security controls, incident response, documentation
+- **Technical:** AWS, Azure AD, network security, firewalls, endpoint protection
 
 <!-- BLOG-POST-LIST:START -->
 ## Latest Blog Posts
@@ -51,9 +53,9 @@ AWS Solutions Architect Associate | Security+ | CMMC RP
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshuamichaelhall-blue)](https://linkedin.com/in/joshuamichaelhall)
-[![Portfolio](https://img.shields.io/badge/Portfolio-joshuahall.tech-green)](https://joshuahall.tech)
-[![Email](https://img.shields.io/badge/Email-contact@joshuamichaelhall.com-red)](mailto:contact@joshuamichaelhall.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joshuamichaelhall.com-green)](https://joshuamichaelhall.com)
+[![Cloud Resume](https://img.shields.io/badge/AWS_Demo-joshuahall.tech-orange)](https://joshuahall.tech)
 
 ---
 
-*Seeking GRC Analyst, Security Compliance Analyst, or Compliance Lead roles in Dallas or San Antonio. Open to financial services, healthcare, or enterprise technology.*
+*CMMC Registered Practitioner helping organizations in regulated industries achieve compliance.*
