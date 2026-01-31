@@ -1,27 +1,37 @@
 # Joshua Michael Hall
 
-## CMMC Registered Practitioner | Security Professional
+## Security Manager | CMMC Compliance Specialist
 
-CMMC RP | CCP (Exam Passed) | Security+ | AWS SAA
-Seeking CMMC Consultant roles at C3PAOs | Zero ransomware breaches across 100+ managed endpoints
+Ready to OWN your security program | Builder, not assessor
+Targeting DIB contractors (20-200 employees) | Zero ransomware track record
 
 ---
 
 ### Credentials
 
-**CMMC:**
-- ✅ CMMC Registered Practitioner (Dec 2025)
+**Priority Certifications:**
+- 🎯 CISSP - Target Q2 2026 (gating credential for Security Manager roles)
 - ✅ CMMC CCP Exam Passed (Jan 2026) - certification pending Tier 3 background
-- 🎯 CMMC CCA Exam - Target Feb 2026
-- 🎯 CISSP Associate - Target April 2026
-
-**Security:**
+- ✅ CMMC Registered Practitioner (Dec 2025)
 - ✅ CompTIA Security+ CE (Nov 2025) - DoD 8570 IAT Level II
 - ✅ AWS Solutions Architect Associate (Nov 2025)
+
+**Knowledge Investment:**
+- 🎯 CMMC CCA - Deep assessment knowledge for program building
 
 **Other:**
 - ✅ CompTIA Project+
 - ✅ Google Project Management Certificate
+
+### Why DIB Contractors Choose Me
+
+**Rare Credential Stack:** CCP + AWS SAA + CMMC RP - uncommon combination for Security Manager roles
+
+**Program Builder:** Built $160K MSP from scratch with complete security programs for 30+ clients
+
+**Zero Ransomware Track Record:** Not a single breach across 100+ managed endpoints over 2+ years
+
+**Called When Others Fail:** Became the "last resort" MSP that actually fixed compromised environments
 
 ### Featured Project
 
@@ -32,7 +42,7 @@ Seeking CMMC Consultant roles at C3PAOs | Zero ransomware breaches across 100+ m
 
 ### Professional Background
 
-3+ years security-focused MSP experience (TimothyTek, Dec 2020 - Jul 2023):
+3+ years BUILDING and OWNING security programs (TimothyTek, Dec 2020 - Jul 2023):
 - Built security programs for 30+ clients in manufacturing, finance, and legal sectors
 - Zero ransomware breaches across 100+ endpoints for fully managed clients
 - 11 enterprise firewall deployments (WatchGuard, Fortinet)
@@ -42,12 +52,17 @@ Seeking CMMC Consultant roles at C3PAOs | Zero ransomware breaches across 100+ m
 
 ### Core Competencies
 
+- **Security Program Management:** Policy development, risk assessment, executive communication
 - **CMMC/Compliance:** NIST 800-171, gap assessments, SSP development, POA&M management
-- **Security Operations:** Risk assessment, security controls, incident response, documentation
 - **Technical:** AWS, Azure AD, network security, firewalls, endpoint protection
 
 ### Target Employers
-C3PAOs and CMMC consulting practices. Clearance sponsorship preferred.
+
+DIB contractors (20-200 employees) seeking a Security Manager who will OWN the program, not just consult.
+
+**Location:** San Antonio (primary) | Dallas (secondary) | Remote
+
+**Clearance:** U.S. Citizen, clearance-ready
 
 <!-- BLOG-POST-LIST:START -->
 ## Latest Blog Posts
@@ -64,4 +79,4 @@ C3PAOs and CMMC consulting practices. Clearance sponsorship preferred.
 
 ---
 
-*Seeking CMMC Consultant or Assessment Support roles at C3PAOs. Remote | San Antonio | Dallas. Available immediately.*
+*Ready to OWN your security program. Builder, not assessor. Let's protect your mission and achieve CMMC certification.*
