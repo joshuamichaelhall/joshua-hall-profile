@@ -27,7 +27,7 @@ Targeting DIB contractors (20-200 employees) | Zero ransomware track record
 
 **Rare Credential Stack:** CCP + AWS SAA + CMMC RP - uncommon combination for entry-level roles
 
-**Program Builder:** Built complete security programs for 30+ clients as MSP founder
+**Program Builder:** Built $160K MSP from scratch with complete security programs for 30+ clients
 
 **Zero Ransomware Track Record:** Not a single breach across 100+ managed endpoints over 2+ years
 
