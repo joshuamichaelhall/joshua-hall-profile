@@ -1,23 +1,23 @@
 # Joshua Michael Hall
 
-## Security Manager | CMMC Compliance Specialist
+## Security Analyst | CMMC Compliance Specialist
 
-Ready to OWN your security program | Builder, not assessor
+Entry-level security professional with compliance expertise | Builder mindset
 Targeting DIB contractors (20-200 employees) | Zero ransomware track record
 
 ---
 
 ### Credentials
 
-**Priority Certifications:**
-- 🎯 CISSP - Target Q2 2026 (gating credential for Security Manager roles)
+**Current Certifications:**
 - ✅ CMMC CCP Exam Passed (Jan 2026) - certification pending Tier 3 background
 - ✅ CMMC Registered Practitioner (Dec 2025)
 - ✅ CompTIA Security+ CE (Nov 2025) - DoD 8570 IAT Level II
 - ✅ AWS Solutions Architect Associate (Nov 2025)
 
-**Knowledge Investment:**
-- 🎯 CMMC CCA - Deep assessment knowledge for program building
+**Post-Hire Targets:**
+- 🎯 CISSP - Target within first 6 months of employment
+- 🎯 WGU MS Cybersecurity - Employer tuition assistance
 
 **Other:**
 - ✅ CompTIA Project+
@@ -25,9 +25,9 @@ Targeting DIB contractors (20-200 employees) | Zero ransomware track record
 
 ### Why DIB Contractors Choose Me
 
-**Rare Credential Stack:** CCP + AWS SAA + CMMC RP - uncommon combination for Security Manager roles
+**Rare Credential Stack:** CCP + AWS SAA + CMMC RP - uncommon combination for entry-level roles
 
-**Program Builder:** Built $160K MSP from scratch with complete security programs for 30+ clients
+**Program Builder:** Built complete security programs for 30+ clients as MSP founder
 
 **Zero Ransomware Track Record:** Not a single breach across 100+ managed endpoints over 2+ years
 
@@ -42,7 +42,7 @@ Targeting DIB contractors (20-200 employees) | Zero ransomware track record
 
 ### Professional Background
 
-3+ years BUILDING and OWNING security programs (TimothyTek, Dec 2020 - Jul 2023):
+3+ years BUILDING security programs (TimothyTek, Dec 2020 - Jul 2023):
 - Built security programs for 30+ clients in manufacturing, finance, and legal sectors
 - Zero ransomware breaches across 100+ endpoints for fully managed clients
 - 11 enterprise firewall deployments (WatchGuard, Fortinet)
@@ -52,15 +52,15 @@ Targeting DIB contractors (20-200 employees) | Zero ransomware track record
 
 ### Core Competencies
 
-- **Security Program Management:** Policy development, risk assessment, executive communication
-- **CMMC/Compliance:** NIST 800-171, gap assessments, SSP development, POA&M management
+- **Compliance:** NIST 800-171, CMMC, gap assessments, SSP development, POA&M management
+- **Security Operations:** Policy development, risk assessment, executive communication
 - **Technical:** AWS, Azure AD, network security, firewalls, endpoint protection
 
-### Target Employers
+### Target Roles
 
-DIB contractors (20-200 employees) seeking a Security Manager who will OWN the program, not just consult.
+Junior ISSO, CMMC Compliance Analyst, or GRC Analyst at DIB contractors (20-200 employees)
 
-**Location:** San Antonio (primary) | Dallas (secondary) | Remote
+**Location:** San Antonio (primary) | Huntsville | Remote | Dallas
 
 **Clearance:** U.S. Citizen, clearance-ready
 
@@ -79,4 +79,4 @@ DIB contractors (20-200 employees) seeking a Security Manager who will OWN the p
 
 ---
 
-*Ready to OWN your security program. Builder, not assessor. Let's protect your mission and achieve CMMC certification.*
+*Builder mindset, compliance expertise. Ready to contribute to your security program and grow into management.*
