@@ -52,7 +52,7 @@ C3PAOs and CMMC consulting practices. Clearance sponsorship preferred.
 <!-- BLOG-POST-LIST:START -->
 ## Latest Blog Posts
 
-- [Infrastructure as Code Best Practices for Financial Services](https://joshuamichaelhall.com/blog/2025/05/05/infrastructure-as-code-best-practices/) (2025-05-05)
+- [How I Used AI to Learn Cloud Architecture: Building My Federal Cloud Resume](https://joshuamichaelhall.com/blog/2026/01/29/how-i-used-ai-to-learn-cloud-architecture/) (2026-01-29)
 
 <!-- BLOG-POST-LIST:END -->
 
