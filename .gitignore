@@ -47,3 +47,5 @@ desktop.ini
 # Obsidian workspace files
 .obsidian/
 .obsidian/*
+
+.claude/
